@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T23:29:10Z",
+  "last_updated": "2026-09-24T23:36:22Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -144,7 +144,9 @@
     "insights_tpa_contribution_remittance_trust_deposit": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
     "insights_tpa_contribution_remittance_trust_deposit_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination.faq.json",
     "insights_tpa_late_contribution_deposit_timing_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
-    "insights_tpa_late_contribution_deposit_timing_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination.faq.json"
+    "insights_tpa_late_contribution_deposit_timing_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination.faq.json",
+    "insights_tpa_contribution_deposit_reconciliation_variance_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
+    "insights_tpa_contribution_deposit_reconciliation_variance_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -475,6 +477,13 @@
         "type": "insights",
         "notes": "TPA late deposit discovery, timing evidence, and correction handoffs; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Contribution Deposit Reconciliation and Variance Documentation Coordination: A Practical Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA payroll-to-trust deposit reconciliation, variance investigation, and resolution handoffs; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
