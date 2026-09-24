@@ -41,6 +41,8 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - Credit union supervisory committee document workflow (insights): https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow
 - TPA plan audit support document evidence (insights): https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence
 - Plan fiduciary committee document evidence (insights): https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence
+- Benefits open enrollment document coordination (insights): https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination
+- Plan distribution rollover document coordination (insights): https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 

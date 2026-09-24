@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T21:30:00Z",
+  "last_updated": "2026-09-24T20:35:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -90,7 +90,11 @@
     "insights_tpa_plan_audit_support_document_evidence": "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
     "insights_tpa_plan_audit_support_document_evidence_faq": "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence.faq.json",
     "insights_plan_fiduciary_committee_document_evidence": "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
-    "insights_plan_fiduciary_committee_document_evidence_faq": "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence.faq.json"
+    "insights_plan_fiduciary_committee_document_evidence_faq": "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence.faq.json",
+    "insights_benefits_open_enrollment": "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+    "insights_benefits_open_enrollment_faq": "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination.faq.json",
+    "insights_plan_distribution_rollover": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+    "insights_plan_distribution_rollover_faq": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -232,6 +236,20 @@
         "type": "insights",
         "notes": "Plan sponsor committee governance and evidence; not ERISA or investment advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence.faq.json"
+      },
+      {
+        "title": "Benefits Open Enrollment Document Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "type": "insights",
+        "notes": "Open enrollment evidence and payroll alignment; not ERISA or benefits advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination.faq.json"
+      },
+      {
+        "title": "Plan Distribution and Rollover Document Coordination: A Practical Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "type": "insights",
+        "notes": "Distribution and rollover evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -290,7 +308,7 @@
   },
   "insight_cross_link_mesh": {
     "tactic": "T8",
-    "verified_on_prod_html": "2026-09-24T21:30:00Z",
+    "verified_on_prod_html": "2026-09-24T2035Z",
     "clusters": {
       "tpa_form_5500": [
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
@@ -347,10 +365,27 @@
         "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
         "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "open_enrollment": [
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_distributions": [
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     },
     "pending_deploy": [
-      "M1 mirror sync after prod agent-discovery includes #15"
+      "M1 mirror sync after prod agent-discovery includes #16/#17"
     ]
   }
 }

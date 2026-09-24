@@ -31,6 +31,8 @@ All entries are **public, non-customer** research—no client names, pilot data,
 | Credit Union Supervisory Committee Document Workflow: A Practical Request-and-Evidence Checklist | https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow |
 | TPA Plan Audit Support Document Workflow: A Practical Evidence Checklist | https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence |
 | Plan Fiduciary Committee Document Evidence: A Practical Governance Checklist | https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence |
+| Benefits Open Enrollment Document Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination |
+| Plan Distribution and Rollover Document Coordination: A Practical Checklist | https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination |
 
 ## Markdown mirror (this repo)
 

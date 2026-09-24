@@ -4,11 +4,6 @@
 
 ---
 
-**GitHub mirror:** https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery · **Agent JSON:** [machine/agent-discovery.json](../machine/agent-discovery.json)
-
----
-
-
 ## One-sentence summary
 
 StratEdge Workflow is a B2B software platform that gives financial operations teams one control layer for intake, document tracking, task ownership, follow-up, Needs Attention prioritization, operational audit trails, and an advisory AI assistant grounded in live workflow data.
@@ -116,12 +111,53 @@ Use these **canonical** pages for TPA / AI-agent questions. Economics in the ins
 
 | Title | URL | Notes |
 |-------|-----|-------|
-| AI Distribution Agents for TPAs: How the Business Works | https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business | Insights; ~10 min; pairs with security reference |
-| Secure Data and System Design for a TPA AI Agent Platform | https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference | Research / TechArticle; ~8 min |
+| Organization brain for AI agents | https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents | Institutional knowledge / living business map for executable AI |
+| AI infrastructure for financial operations | https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations | Workflow control layer—not a chatbot |
+| AI Distribution Agents for TPAs: How the Business Works | https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business | Insights; illustrative TPA economics; pairs with security reference |
+| Form 5500 coordination checklist | https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist | Operational checklist for sponsors, TPAs, and plan admins |
+| Needs Attention dashboards | https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops | Prioritizing workflow exceptions in financial ops |
+| Secure Data and System Design for a TPA AI Agent Platform | https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference | Research / TechArticle; reference architecture |
 | Credit union operating benchmarks | https://www.stratedgeworkflow.com/credit-union-index | Public benchmark context |
-| Form 5500 filing friction | https://www.stratedgeworkflow.com/form-5500-filing-friction | Public benchmark context |
+| Form 5500 filing friction | https://www.stratedgeworkflow.com/form-5500-filing-friction | Public benchmark context (label as market data) |
+| StratEdge Index (Form 5500) | https://www.stratedgeworkflow.com/stratedge-index | Public filing timeliness benchmark |
+| Bank Index | https://www.stratedgeworkflow.com/bank-index | Public FDIC efficiency benchmark |
+| Credit union spreadsheet workflows | https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows | Insights; credit union ICP; not core replacement advice |
+| TPA document tracking before Form 5500 | https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500 | Insights; TPA season prep; not ERISA/legal advice |
+| Credit union NCUA examination document readiness | https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness | CU ops; examination evidence and vendor diligence; not regulatory advice |
+| TPA year-round benefits operations checklist | https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist | TPA ops; sponsor/recordkeeper coordination beyond filing season |
+| Accounting firm document request tracking | https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking | Accounting ICP; client document cycles; not tax or audit advice |
+| Plan sponsor benefits document accountability | https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability | Plan sponsor ops; document governance; not ERISA or tax advice |
+| Recordkeeper census payroll handoff checklist | https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist | Recordkeeper ops; census/payroll handoffs; not ERISA or tax advice |
+| Credit union supervisory committee document workflow | https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow | CU governance; committee document requests and evidence; not regulatory advice |
+| TPA plan audit support document evidence | https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence | TPA ops; audit PBC and multi-party evidence; not ERISA or audit advice |
+| Plan fiduciary committee document evidence | https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence | Plan sponsor ops; committee governance and vendor diligence; not ERISA or investment advice |
+| Benefits open enrollment document coordination | https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination | Plan sponsor / TPA ops; enrollment evidence and payroll alignment; not ERISA or benefits advice |
+| Plan distribution rollover document coordination | https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination | Sponsor / TPA / recordkeeper ops; distribution and rollover evidence; not ERISA or tax advice |
 
 **Machine-readable bundle:** https://www.stratedgeworkflow.com/machine/agent-discovery.json (`public_research.articles` mirrors the table above).  
+
+### Insights FAQ sidecars (T7)
+
+Stable JSON Q&A for agents; always cite the HTML article as primary.
+
+- Organization brain for AI agents: https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents.faq.json (canonical HTML: `/insights/organization-brain-for-ai-agents`)
+- AI infrastructure for financial operations: https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations.faq.json (canonical HTML: `/insights/ai-infrastructure-for-financial-operations`)
+- AI distribution agents for TPAs: https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business.faq.json (canonical HTML: `/insights/ai-distribution-agents-tpa-business`)
+- Form 5500 coordination checklist: https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist.faq.json (canonical HTML: `/insights/form-5500-coordination-checklist`)
+- Needs Attention dashboards: https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops.faq.json (canonical HTML: `/insights/needs-attention-dashboards-financial-ops`)
+- Credit union spreadsheet workflows: https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows.faq.json (canonical HTML: `/insights/how-credit-unions-replace-spreadsheet-workflows`)
+- TPA document tracking before Form 5500: https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json (canonical HTML: `/insights/tpa-document-tracking-before-form-5500`)
+- Credit union NCUA examination document readiness: https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness.faq.json (canonical HTML: `/insights/credit-union-ncua-examination-document-readiness`)
+- TPA year-round benefits operations checklist: https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json (canonical HTML: `/insights/tpa-year-round-benefits-operations-checklist`)
+- Accounting firm document request tracking: https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking.faq.json (canonical HTML: `/insights/accounting-firm-document-request-tracking`)
+- Plan sponsor benefits document accountability: https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability.faq.json (canonical HTML: `/insights/plan-sponsor-benefits-document-accountability`)
+- Recordkeeper census payroll handoff checklist: https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist.faq.json (canonical HTML: `/insights/recordkeeper-census-payroll-handoff-checklist`)
+- Credit union supervisory committee document workflow: https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow.faq.json (canonical HTML: `/insights/credit-union-supervisory-committee-document-workflow`)
+- TPA plan audit support document evidence: https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence.faq.json (canonical HTML: `/insights/tpa-plan-audit-support-document-evidence`)
+- Plan fiduciary committee document evidence: https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence.faq.json (canonical HTML: `/insights/plan-fiduciary-committee-document-evidence`)
+- Benefits open enrollment document coordination: https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination.faq.json (canonical HTML: `/insights/benefits-open-enrollment-document-coordination`)
+- Plan distribution rollover document coordination: https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination.faq.json (canonical HTML: `/insights/plan-distribution-rollover-document-coordination`)
+
 **Extended brief:** https://www.stratedgeworkflow.com/llms-full.txt  
 **GitHub mirror (secondary):** https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research
 
