@@ -63,6 +63,8 @@
     "insights_tpa_document_tracking_form_5500_faq": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json",
     "insights_credit_union_ncua_examination": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness",
     "insights_credit_union_ncua_examination_faq": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness.faq.json",
+    "insights_tpa_year_round_benefits_ops": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+    "insights_tpa_year_round_benefits_ops_faq": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json",
     "form_5500_filing_friction": "https://www.stratedgeworkflow.com/form-5500-filing-friction",
     "benchmark_stratedge_index": "https://www.stratedgeworkflow.com/stratedge-index",
     "benchmark_credit_union_index": "https://www.stratedgeworkflow.com/credit-union-index",
@@ -169,6 +171,13 @@
         "type": "insights",
         "notes": "NCUA examination operational evidence and vendor diligence; not regulatory advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness.faq.json"
+      },
+      {
+        "title": "Year-Round TPA Benefits Operations: A Checklist for Smooth Sponsor Handoffs and Coordination",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+        "type": "insights",
+        "notes": "Year-round TPA/sponsor/recordkeeper coordination; not ERISA or filing advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"

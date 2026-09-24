@@ -29,7 +29,7 @@ This release marks the **sanitized public research mirror** in `StratEdge-public
 |-------|---------------|-------------|
 | Year-round TPA benefits operations checklist (insight #9) | https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist | https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json |
 
-*Note:* Insight **#8** and **#9** HTML routes return **200** on production (verified 2026-09-24). Prefer live site URLs for citations; `machine/agent-discovery.json` on `main` includes insight **#8** in `public_research.articles` (prod `last_updated` **2026-09-24T21:10:00Z**); insight **#9** catalog entry follows the next site bundle refresh.
+*Note:* Insight **#8** and **#9** HTML routes and FAQ sidecars return **200** on production (verified 2026-09-24). Prefer live site URLs for citations; `machine/agent-discovery.json` on `main` includes insights **#8** and **#9** in `public_research.articles` (prod sync **2026-09-24T21:10:00Z**, 10 articles).
 
 ## Redaction policy
 
