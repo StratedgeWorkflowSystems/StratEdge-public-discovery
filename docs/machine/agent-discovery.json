@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T23:02:08Z",
+  "last_updated": "2026-09-24T23:11:38Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -138,7 +138,9 @@
     "insights_plan_summary_plan_description": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
     "insights_plan_summary_plan_description_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination.faq.json",
     "insights_plan_summary_annual_report": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
-    "insights_plan_summary_annual_report_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination.faq.json"
+    "insights_plan_summary_annual_report_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination.faq.json",
+    "insights_plan_participant_quarterly_statement": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
+    "insights_plan_participant_quarterly_statement_faq": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -448,6 +450,13 @@
         "type": "insights",
         "notes": "Summary annual report preparation, distribution, and participant notice evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Participant Quarterly Statement Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
+        "type": "insights",
+        "notes": "Quarterly participant statement delivery, bounce handling, and reconciliation evidence; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -765,7 +774,14 @@
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
-    }
+    },
+    "plan_participant_quarterly_statement": [
+      "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ]
   },
   "relatedInsights": {
     "plan_rehire": [
