@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T23:36:22Z",
+  "last_updated": "2026-09-24T23:43:18Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -146,7 +146,9 @@
     "insights_tpa_late_contribution_deposit_timing_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
     "insights_tpa_late_contribution_deposit_timing_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination.faq.json",
     "insights_tpa_contribution_deposit_reconciliation_variance_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
-    "insights_tpa_contribution_deposit_reconciliation_variance_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination.faq.json"
+    "insights_tpa_contribution_deposit_reconciliation_variance_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination.faq.json",
+    "insights_tpa_unallocated_suspense_contribution_deposit_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination",
+    "insights_tpa_unallocated_suspense_contribution_deposit_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -484,6 +486,13 @@
         "type": "insights",
         "notes": "TPA payroll-to-trust deposit reconciliation, variance investigation, and resolution handoffs; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Unallocated Suspense and Contribution Deposit Documentation Coordination: A Practical Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA unallocated suspense and deposit allocation evidence; not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -959,6 +968,26 @@
       "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ]
+  },
+  "related_insights": {
+    "tpa_unallocated_suspense_contribution_deposit": [
+      "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_contribution_deposit_reconciliation_variance": [
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
