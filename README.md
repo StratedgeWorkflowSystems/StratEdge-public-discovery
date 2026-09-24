@@ -91,6 +91,8 @@ Public, non-customer content—no client names or deal metrics. Economics in the
 | Needs Attention Dashboards: What Financial Ops Teams Should Surface First | Insights | https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops | Site only ([FAQ sidecar](https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops.faq.json)) |
 | How Credit Unions Can Replace Spreadsheet Workflows Without a Core Conversion | Insights | https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows | Site only (linked in agent-discovery.json) |
 | What TPAs Should Track Before Form 5500 Season Peaks | Insights | https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500 | Site only (linked in agent-discovery.json) |
+| Preparing for NCUA Examinations: Document Readiness and Vendor Diligence | Insights | https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness | [markdown](./docs/research/credit-union-ncua-examination-document-readiness.md) · [FAQ sidecar](https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness.faq.json) |
+| Year-Round TPA Benefits Operations Checklist | Insights | https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist | Site only (live on prod; `agent-discovery.json` catalog update pending) · [FAQ sidecar](https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json) |
 
 Full index, planned queue, and release stub: [docs/research/README.md](./docs/research/README.md) · [RELEASE-NOTES.md](./docs/research/RELEASE-NOTES.md).
 

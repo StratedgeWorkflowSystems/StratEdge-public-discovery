@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T20:45:00Z",
+  "last_updated": "2026-09-24T21:10:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -52,9 +52,17 @@
     "insights_needs_attention_dashboards": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
     "insights_needs_attention_dashboards_faq": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops.faq.json",
     "insights_organization_brain": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents",
+    "insights_organization_brain_faq": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents.faq.json",
     "insights_ai_infrastructure_financial_ops": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
+    "insights_ai_infrastructure_financial_ops_faq": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations.faq.json",
+    "insights_tpa_distribution_agents_faq": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business.faq.json",
+    "insights_form_5500_coordination_checklist_faq": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist.faq.json",
     "insights_credit_union_spreadsheet_workflows": "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
+    "insights_credit_union_spreadsheet_workflows_faq": "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows.faq.json",
     "insights_tpa_document_tracking_form_5500": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+    "insights_tpa_document_tracking_form_5500_faq": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json",
+    "insights_credit_union_ncua_examination": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness",
+    "insights_credit_union_ncua_examination_faq": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness.faq.json",
     "form_5500_filing_friction": "https://www.stratedgeworkflow.com/form-5500-filing-friction",
     "benchmark_stratedge_index": "https://www.stratedgeworkflow.com/stratedge-index",
     "benchmark_credit_union_index": "https://www.stratedgeworkflow.com/credit-union-index",
@@ -104,19 +112,22 @@
         "title": "Institutional knowledge as training substrate: organization brain for AI agents",
         "url": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents",
         "type": "insights",
-        "notes": "Organization brain / living business map for executable AI in financial ops."
+        "notes": "Organization brain / living business map for executable AI in financial ops.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents.faq.json"
       },
       {
         "title": "AI infrastructure for financial operations — not another chatbot",
         "url": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
         "type": "insights",
-        "notes": "Workflow control layer for intake, evidence, routing, and audit."
+        "notes": "Workflow control layer for intake, evidence, routing, and audit.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations.faq.json"
       },
       {
         "title": "AI Distribution Agents for TPAs: How the Business Works",
         "url": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
         "type": "insights",
-        "notes": "Illustrative TPA economics; not customer contracts or StratEdge revenue."
+        "notes": "Illustrative TPA economics; not customer contracts or StratEdge revenue.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business.faq.json"
       },
       {
         "title": "Secure Data and System Design for a TPA AI Agent Platform",
@@ -128,7 +139,8 @@
         "title": "Form 5500 Coordination Checklist for Plan Sponsors and Administrators",
         "url": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
         "type": "insights",
-        "notes": "Operational coordination guidance; not tax or ERISA advice."
+        "notes": "Operational coordination guidance; not tax or ERISA advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist.faq.json"
       },
       {
         "title": "Needs Attention Dashboards: What Financial Ops Teams Should Surface First",
@@ -141,13 +153,22 @@
         "title": "How Credit Unions Can Replace Spreadsheet Workflows Without a Core Conversion",
         "url": "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
         "type": "insights",
-        "notes": "Credit union workflow control layer; not core replacement or legal advice."
+        "notes": "Credit union workflow control layer; not core replacement or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows.faq.json"
       },
       {
         "title": "What TPAs Should Track Before Form 5500 Season Peaks",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
         "type": "insights",
-        "notes": "TPA document tracking timeline; coordination only—not ERISA or filing advice."
+        "notes": "TPA document tracking timeline; coordination only—not ERISA or filing advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json"
+      },
+      {
+        "title": "Preparing for NCUA Examinations: Document Readiness and Vendor Diligence for Credit Union Operations",
+        "url": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness",
+        "type": "insights",
+        "notes": "NCUA examination operational evidence and vendor diligence; not regulatory advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"

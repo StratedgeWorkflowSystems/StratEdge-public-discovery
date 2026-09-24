@@ -23,6 +23,14 @@ All entries are **public, non-customer** research—no client names, pilot data,
 | Needs Attention Dashboards: What Financial Ops Teams Should Surface First | https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops |
 | How Credit Unions Can Replace Spreadsheet Workflows Without a Core Conversion | https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows |
 | What TPAs Should Track Before Form 5500 Season Peaks | https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500 |
+| Preparing for NCUA Examinations: Document Readiness and Vendor Diligence | https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness |
+| Year-Round TPA Benefits Operations Checklist | https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist *(live on site; mirror markdown queue)* |
+
+## Markdown mirror (this repo)
+
+| Title | Canonical URL | Mirror file |
+|-------|---------------|-------------|
+| NCUA examination document readiness (insight #8) | https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness | [credit-union-ncua-examination-document-readiness.md](./credit-union-ncua-examination-document-readiness.md) |
 
 ## Public benchmarks
 
