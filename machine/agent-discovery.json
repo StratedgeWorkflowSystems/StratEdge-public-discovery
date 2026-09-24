@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T22:33:00Z",
+  "last_updated": "2026-09-24T22:43:24Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -132,7 +132,9 @@
     "insights_plan_designated_roth_catch_up": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
     "insights_plan_designated_roth_catch_up_faq": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json",
     "insights_plan_esignature_consent": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
-    "insights_plan_esignature_consent_faq": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json"
+    "insights_plan_esignature_consent_faq": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json",
+    "insights_plan_fee_disclosure": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
+    "insights_plan_fee_disclosure_faq": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -421,6 +423,13 @@
         "type": "insights",
         "notes": "Participant e-signature consent and election audit trails; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Fee Disclosure and Invoice Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
+        "type": "insights",
+        "notes": "Participant and service provider fee disclosure and invoice evidence coordination; not ERISA, tax, or investment advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -506,6 +515,7 @@
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist"
       ],
       "plan_sponsors": [
+        "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
         "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
@@ -710,6 +720,14 @@
         "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_fee_disclosure": [
+        "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     }
   },
@@ -796,6 +814,14 @@
       "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
       "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_fee_disclosure": [
+      "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+      "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
+      "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
