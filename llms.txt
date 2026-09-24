@@ -11,8 +11,7 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - **HQ:** 4695 MacArthur Court, Newport Beach, CA 92660, USA
 - **Contact:** info@stratedgeworkflow.com
 - **Website:** https://www.stratedgeworkflow.com/
-- **GitHub mirror:** https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery
-- **Ideal customers:** Credit unions, TPAs, accounting firms, outsourced finance teams, and plan administrators (no customer names or deal details in this mirror)
+- **Traction:** Active pilots and implementations with credit unions, TPAs, and accounting firms (no public customer list without permission)
 - **AI:** Server-side, advisory assistant grounded in live workflow records — not autonomous filing or compliance decisions
 
 ## Primary URLs
@@ -24,15 +23,25 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - Interactive product tour (no setup): https://www.stratedgeworkflow.com/dashboard?tour=1
 - Security: https://www.stratedgeworkflow.com/security
 - FAQ: https://www.stratedgeworkflow.com/faq
-- Research: https://www.stratedgeworkflow.com/research
+- Research / benchmarks: https://www.stratedgeworkflow.com/research
+- TPA AI security reference: https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference
+- Insights (articles): https://www.stratedgeworkflow.com/insights
+- TPA distribution agents (insights): https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business
+- Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
+- Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 
 ## Related products (suite)
 
 - RemitBot.ai — https://www.remitbot.ai/
 - ProofAudit.ai — https://www.proofaudit.ai/
 
-## Files in this repo
+## For machines
 
-- docs/company.json
-- docs/for-ai-assistants.md
-- docs/investor-one-pager.md
+- Extended brief: https://www.stratedgeworkflow.com/llms-full.txt
+- Company JSON: https://www.stratedgeworkflow.com/.well-known/company.json
+- AI assistant citation brief: https://www.stratedgeworkflow.com/for-ai-assistants.md
+
+## Optional
+
+- Investor overview: https://www.stratedgeworkflow.com/investors/
+- Sitemap: https://www.stratedgeworkflow.com/sitemap.xml

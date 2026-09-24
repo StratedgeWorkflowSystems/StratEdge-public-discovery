@@ -21,7 +21,13 @@
       "type": "SaaS",
       "status": "live",
       "url": "https://www.stratedgeworkflow.com/",
-      "categories": ["Workflow management", "Document management", "Financial operations", "Fintech", "B2B software"],
+      "categories": [
+        "Workflow management",
+        "Document management",
+        "Financial operations",
+        "Fintech",
+        "B2B software"
+      ],
       "demo_url": "https://www.stratedgeworkflow.com/demo",
       "tour_url": "https://www.stratedgeworkflow.com/dashboard?tour=1"
     }
@@ -37,8 +43,27 @@
     "Outsourced finance teams",
     "Plan administrators"
   ],
-  "traction_public_statement": "Ideal customers include credit unions, third-party administrators (TPAs), accounting firms, outsourced finance teams, and plan administrators running recurring, document-heavy workflows.",
+  "traction_public_statement": "Active pilots and implementations underway with credit unions, TPAs, and accounting firms per public marketing site (no customer list in this mirror).",
   "funding_status": "Not published on this mirror; general inquiries via info@stratedgeworkflow.com or https://www.stratedgeworkflow.com/",
+  "discovery": {
+    "llms_txt_site": "https://www.stratedgeworkflow.com/llms.txt",
+    "llms_txt_mirror_raw": "https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/llms.txt",
+    "agent_discovery_site": "https://www.stratedgeworkflow.com/machine/agent-discovery.json",
+    "agent_discovery_mirror_raw": "https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/machine/agent-discovery.json",
+    "for_ai_assistants_site": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
+    "for_ai_assistants_mirror_raw": "https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/docs/for-ai-assistants.md",
+    "research_index_mirror": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
+  },
+  "public_research": [
+    {
+      "title": "AI Distribution Agents for TPAs: How the Business Works",
+      "url": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business"
+    },
+    {
+      "title": "Secure Data and System Design for a TPA AI Agent Platform",
+      "url": "https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference"
+    }
+  ],
   "mirror": {
     "repository": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery",
     "last_updated": "2026-09-24"

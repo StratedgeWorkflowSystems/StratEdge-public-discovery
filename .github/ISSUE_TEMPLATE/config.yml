@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: StratEdge Workflow — official site
+    url: https://www.stratedgeworkflow.com/
+    about: Product overview, FAQ, and security pages
+  - name: Book a demo
+    url: https://www.stratedgeworkflow.com/demo
+    about: Sales and product questions (not handled via GitHub Issues)
+  - name: Email
+    url: mailto:info@stratedgeworkflow.com
+    about: General inquiries

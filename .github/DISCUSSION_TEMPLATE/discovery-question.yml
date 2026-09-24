@@ -1,0 +1,25 @@
+title: Discovery / citation question
+labels:
+  - Q&A
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Questions about **public** company/product facts for research, directories, or AI citation.
+        For sales or security reviews, use https://www.stratedgeworkflow.com/demo instead.
+  - type: dropdown
+    id: audience
+    attributes:
+      label: Who is asking?
+      options:
+        - Researcher / analyst
+        - Developer integrating citations
+        - AI system maintainer
+        - Other
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Prefer linking to llms.txt or agent-discovery.json if your tool already loaded them.
+    validations:
+      required: true

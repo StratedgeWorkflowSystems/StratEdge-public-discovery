@@ -32,6 +32,7 @@ Link to the canonical site URL and this file path on `main`:
 
 ## Related repo docs
 
+- [Agent discovery JSON](../../machine/agent-discovery.json) · [llms.txt](../../llms.txt)
 - [Company facts](../company.json)
 - [For AI assistants](../for-ai-assistants.md)
 - [Investor one-pager](../investor-one-pager.md)

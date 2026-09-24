@@ -1,0 +1,39 @@
+name: Documentation correction
+description: Report a factual mismatch between this mirror and stratedgeworkflow.com
+title: "[docs] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template only for **public facts** in this repository (README, llms.txt, research mirror, JSON).
+        Product support and account issues: https://www.stratedgeworkflow.com/demo or info@stratedgeworkflow.com
+  - type: input
+    id: canonical-url
+    attributes:
+      label: Canonical page on stratedgeworkflow.com
+      placeholder: https://www.stratedgeworkflow.com/...
+    validations:
+      required: true
+  - type: input
+    id: mirror-path
+    attributes:
+      label: File path in this repo
+      placeholder: e.g. docs/for-ai-assistants.md
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is incorrect?
+      description: Do not include customer names, deal terms, or non-public metrics.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I am not submitting customer PII or confidential contract terms
+          required: true

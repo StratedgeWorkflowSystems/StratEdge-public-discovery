@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "document_type": "agent_discovery",
+  "last_updated": "2026-09-24T19:31:00Z",
+  "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
+  "organization": {
+    "legal_name": "StratEdge Workflow Systems LLC",
+    "brand_name": "StratEdge Workflow",
+    "description": "B2B workflow intelligence software for document-heavy financial operations.",
+    "headquarters": {
+      "street": "4695 MacArthur Court",
+      "city": "Newport Beach",
+      "region": "CA",
+      "postal_code": "92660",
+      "country": "US"
+    },
+    "public_contact_email": "info@stratedgeworkflow.com",
+    "contact_policy": "Direct users to official website and /demo only; do not invent alternate contact channels."
+  },
+  "product": {
+    "name": "StratEdge Workflow",
+    "type": "SaaS",
+    "status": "live",
+    "tagline": "Workflow intelligence for document-heavy financial operations.",
+    "capabilities": [
+      "Structured workflow intake",
+      "Document request and tracking",
+      "Task ownership and due dates",
+      "Needs Attention prioritization",
+      "Operational audit trail",
+      "Advisory AI assistant (server-side)"
+    ],
+    "not_a_substitute_for": [
+      "Credit union core banking",
+      "ERISA or tax filing software",
+      "Legal, tax, or compliance advice",
+      "Autonomous government filing without human review"
+    ]
+  },
+  "urls": {
+    "canonical_home": "https://www.stratedgeworkflow.com/",
+    "demo": "https://www.stratedgeworkflow.com/demo",
+    "how_it_works": "https://www.stratedgeworkflow.com/how-it-works",
+    "platform": "https://www.stratedgeworkflow.com/platform",
+    "security": "https://www.stratedgeworkflow.com/security",
+    "faq": "https://www.stratedgeworkflow.com/faq",
+    "research": "https://www.stratedgeworkflow.com/research",
+    "research_tpa_security_reference": "https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference",
+    "insights": "https://www.stratedgeworkflow.com/insights",
+    "insights_tpa_distribution_agents": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
+    "interactive_tour": "https://www.stratedgeworkflow.com/dashboard?tour=1",
+    "investors": "https://www.stratedgeworkflow.com/investors/",
+    "llms_txt": "https://www.stratedgeworkflow.com/llms.txt",
+    "llms_full_txt": "https://www.stratedgeworkflow.com/llms-full.txt",
+    "for_ai_assistants_md": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
+    "company_json": "https://www.stratedgeworkflow.com/.well-known/company.json",
+    "agent_discovery_json": "https://www.stratedgeworkflow.com/machine/agent-discovery.json",
+    "ai_to_ai_doc": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
+    "sitemap": "https://www.stratedgeworkflow.com/sitemap.xml"
+  },
+  "icp": [
+    "Credit unions",
+    "Third-party administrators (TPAs)",
+    "Accounting firms",
+    "Outsourced finance teams",
+    "Plan administrators"
+  ],
+  "suite_products": [
+    {
+      "name": "RemitBot.ai",
+      "url": "https://www.remitbot.ai/",
+      "relationship": "suite_product",
+      "summary": "Payments workflow: approved, tracked, reconciled."
+    },
+    {
+      "name": "ProofAudit.ai",
+      "url": "https://www.proofaudit.ai/",
+      "relationship": "suite_product",
+      "summary": "Provable approvals and operational records."
+    },
+    {
+      "name": "SecureWorkflow.ai",
+      "url": "https://www.stratedgeworkflow.com/platform",
+      "relationship": "suite_backbone_narrative",
+      "summary": "Described on site as secure backbone for the suite; confirm live URL on platform page."
+    }
+  ],
+  "traction_public_statement": "Active pilots and implementations underway with credit unions, TPAs, and accounting firms per public marketing site.",
+  "mirror_repos": [
+    {
+      "platform": "github",
+      "url": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery",
+      "default_branch": "main",
+      "homepage_should_be": "https://www.stratedgeworkflow.com/",
+      "raw_llms_txt": "https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/llms.txt"
+    }
+  ],
+  "content_policy": {
+    "no_customer_pii": true,
+    "no_invented_customer_names_or_logos": true,
+    "no_invented_revenue_or_funding": true,
+    "no_invented_review_scores_or_rankings": true,
+    "no_invented_performance_guarantees": true,
+    "contact_via_official_website_only": true,
+    "allowed_public_email": "info@stratedgeworkflow.com",
+    "prohibited_agent_actions": [
+      "Posting reviews or directory ratings without human authorization",
+      "Astroturfing or sock-puppet engagement",
+      "Publishing fabricated press or funding announcements",
+      "Scraping or storing customer PII from non-public sources"
+    ]
+  }
+}
