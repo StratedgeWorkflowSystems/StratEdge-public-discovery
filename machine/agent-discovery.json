@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T23:20:55Z",
+  "last_updated": "2026-09-24T23:29:10Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -142,7 +142,9 @@
     "insights_plan_participant_quarterly_statement": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
     "insights_plan_participant_quarterly_statement_faq": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination.faq.json",
     "insights_tpa_contribution_remittance_trust_deposit": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
-    "insights_tpa_contribution_remittance_trust_deposit_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination.faq.json"
+    "insights_tpa_contribution_remittance_trust_deposit_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination.faq.json",
+    "insights_tpa_late_contribution_deposit_timing_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
+    "insights_tpa_late_contribution_deposit_timing_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -466,6 +468,13 @@
         "type": "insights",
         "notes": "TPA payroll remittance, trust deposit confirmation, and reconciliation evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Late Contribution Deposit and Timing Documentation Coordination: A Practical Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA late deposit discovery, timing evidence, and correction handoffs; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -480,10 +489,19 @@
       ],
       "tpa_contribution_remittance": [
         "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
         "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "tpa_late_contribution_deposit_timing": [
+        "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     }
@@ -920,10 +938,19 @@
     ],
     "tpa_contribution_remittance": [
       "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
       "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_late_contribution_deposit_timing": [
+      "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
   }
