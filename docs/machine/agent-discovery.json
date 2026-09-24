@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T22:50:00Z",
+  "last_updated": "2026-09-24T22:53:47Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -850,10 +850,5 @@
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
-  },
-  "pending_deploy": [
-    "CMS publish campaign #38 plan-summary-plan-description-documentation-coordination (404 on prod)",
-    "machine/agent-discovery.json merge from agent-discovery-cycle38-t8-patch.json after CMS (#39 articles in patch)",
-    "M1 mirror sync after prod agent-discovery includes #38 post-merge"
-  ]
+  }
 }
