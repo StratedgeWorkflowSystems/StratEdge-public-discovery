@@ -1,29 +1,31 @@
-# StratEdge public research (stub)
+# StratEdge public research
 
-**Status:** Public research index. Full text lives in this folder and will cross-link from [stratedgeworkflow.com/research](https://www.stratedgeworkflow.com/research) when live.
+Canonical site: [stratedgeworkflow.com/research](https://www.stratedgeworkflow.com/research) and [stratedgeworkflow.com/insights](https://www.stratedgeworkflow.com/insights).
 
-All entries are **public, non-customer** research summaries—no client names, pilot data, or deal-specific metrics. Dollar figures in papers are **illustrative industry modeling**, not StratEdge financials.
+All entries are **public, non-customer** research—no client names, pilot data, or deal-specific metrics. Dollar figures in the business paper are **illustrative industry scenarios**, not StratEdge financial statements.
 
 ## Published papers
 
-| File | Title |
-|------|--------|
-| [tpa-distribution-agents-business.md](./tpa-distribution-agents-business.md) | AI distribution agents for TPAs — business and illustrative unit economics |
-| [tpa-ai-platform-security-reference.md](./tpa-ai-platform-security-reference.md) | Advisory AI platform security reference for document-heavy financial ops |
+| Title | Canonical URL | Mirror file |
+|-------|---------------|-------------|
+| AI Distribution Agents for TPAs: How the Business Works | https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business | [ai-distribution-agents-tpa-business.md](./ai-distribution-agents-tpa-business.md) |
+| Secure Data and System Design for a TPA AI Agent Platform | https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference | [tpa-ai-agent-platform-security-reference.md](./tpa-ai-agent-platform-security-reference.md) |
+
+**Author:** Tarik Zahedi · StratEdge Workflow Systems LLC
 
 ## Planned papers (queue)
 
-| ID | Working title | Focus | Expected format |
-|----|---------------|-------|-----------------|
-| R-001 | Workflow control layers in credit union operations | Spreadsheet risk, examiner-facing evidence, core-adjacent scope | Long-form brief + checklist |
-| R-002 | Document readiness curves for Form 5500 season | T-minus timelines, TPA coordination, missing-document patterns | Checklist + timeline |
-| R-003 | Accounting firm document request economics | Seasonal follow-up load, partner interrupts, conservative ROI framing | Methodology note |
-| R-004 | Operational audit trails vs. communication channels | Email/ticketing limits for recurring financial workflows | Comparative brief |
-| R-005 | Advisory AI in document-heavy financial ops | Server-side processing, human-in-the-loop, policy alignment | Governance-oriented note |
+| ID | Working title | Focus |
+|----|---------------|-------|
+| R-001 | Workflow control layers in credit union operations | Examiner-facing evidence, core-adjacent scope |
+| R-002 | Document readiness curves for Form 5500 season | TPA coordination, missing-document patterns |
+| R-003 | Accounting firm document request economics | Seasonal follow-up load, conservative ROI framing |
+| R-004 | Operational audit trails vs. communication channels | Email/ticketing limits for recurring workflows |
+| R-005 | Advisory AI in document-heavy financial ops | Server-side processing, human-in-the-loop |
 
 ## Citation
 
-When citing StratEdge research from this repository, link to the specific file path on `main` and the canonical site:
+Link to the canonical site URL and this file path on `main`:
 
 - **Site:** https://www.stratedgeworkflow.com/
 - **Contact:** info@stratedgeworkflow.com
