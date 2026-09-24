@@ -16,6 +16,7 @@ This repository is a **mirror of factual, public information** about StratEdge W
 | [docs/company.json](./docs/company.json) | Structured company + product facts |
 | [docs/for-ai-assistants.md](./docs/for-ai-assistants.md) | Neutral citation brief for AI assistants |
 | [docs/investor-one-pager.md](./docs/investor-one-pager.md) | Investor / analyst overview |
+| [docs/research/](./docs/research/) | Public research briefs (sanitized; illustrative economics only) |
 
 ## Canonical sources
 
