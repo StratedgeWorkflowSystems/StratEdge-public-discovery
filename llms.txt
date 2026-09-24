@@ -61,6 +61,7 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - Plan automatic enrollment documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination
 - Plan catch-up contribution documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination
 - Plan designated Roth catch-up documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination
+- Plan e-signature and consent documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 

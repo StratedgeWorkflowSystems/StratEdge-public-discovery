@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T21:30:04Z",
+  "last_updated": "2026-09-24T22:25:30Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -130,7 +130,9 @@
     "insights_plan_catch_up_contribution": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
     "insights_plan_catch_up_contribution_faq": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json",
     "insights_plan_designated_roth_catch_up": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
-    "insights_plan_designated_roth_catch_up_faq": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json"
+    "insights_plan_designated_roth_catch_up_faq": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json",
+    "insights_plan_esignature_consent": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
+    "insights_plan_esignature_consent_faq": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -412,6 +414,13 @@
         "type": "insights",
         "notes": "SECURE 2.0 designated Roth catch-up eligibility, payroll coding, and evidence; coordination only\u2014not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan E-Signature and Consent Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
+        "type": "insights",
+        "notes": "Participant e-signature consent and election audit trails; coordination only\u2014not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -693,6 +702,14 @@
         "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_esignature_consent": [
+        "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     }
   },
@@ -773,6 +790,19 @@
       "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_esignature_consent": [
+      "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
-  }
+  },
+  "pending_deploy": [
+    "CMS publish campaign #36 plan-esignature-consent-documentation-coordination (404 on prod)",
+    "machine/agent-discovery.json merge from agent-discovery-cycle36-t8-patch.json after CMS (#37 articles in patch)",
+    "M1 mirror sync after prod agent-discovery includes #36 post-merge"
+  ]
 }
