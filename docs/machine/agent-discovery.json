@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T23:11:38Z",
+  "last_updated": "2026-09-24T23:20:55Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -140,7 +140,9 @@
     "insights_plan_summary_annual_report": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
     "insights_plan_summary_annual_report_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination.faq.json",
     "insights_plan_participant_quarterly_statement": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
-    "insights_plan_participant_quarterly_statement_faq": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination.faq.json"
+    "insights_plan_participant_quarterly_statement_faq": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination.faq.json",
+    "insights_tpa_contribution_remittance_trust_deposit": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+    "insights_tpa_contribution_remittance_trust_deposit_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -457,6 +459,13 @@
         "type": "insights",
         "notes": "Quarterly participant statement delivery, bounce handling, and reconciliation evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Contribution Remittance and Trust Deposit Documentation Coordination: A Practical Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA payroll remittance, trust deposit confirmation, and reconciliation evidence; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -467,6 +476,14 @@
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
         "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "tpa_contribution_remittance": [
+        "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     }
@@ -773,6 +790,14 @@
         "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "tpa_contribution_remittance": [
+        "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     },
     "plan_participant_quarterly_statement": [
@@ -891,6 +916,14 @@
       "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
       "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_contribution_remittance": [
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
   }
