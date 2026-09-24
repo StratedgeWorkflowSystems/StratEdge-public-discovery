@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T22:43:24Z",
+  "last_updated": "2026-09-24T22:50:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -134,7 +134,9 @@
     "insights_plan_esignature_consent": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
     "insights_plan_esignature_consent_faq": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json",
     "insights_plan_fee_disclosure": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
-    "insights_plan_fee_disclosure_faq": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination.faq.json"
+    "insights_plan_fee_disclosure_faq": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination.faq.json",
+    "insights_plan_summary_plan_description": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
+    "insights_plan_summary_plan_description_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -430,6 +432,13 @@
         "type": "insights",
         "notes": "Participant and service provider fee disclosure and invoice evidence coordination; not ERISA, tax, or investment advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Summary Plan Description (SPD) Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
+        "type": "insights",
+        "notes": "SPD/SMM distribution, version control, and participant acknowledgment evidence; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -728,6 +737,14 @@
         "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_summary_plan_description": [
+        "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     }
   },
@@ -824,6 +841,19 @@
       "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_summary_plan_description": [
+      "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
-  }
+  },
+  "pending_deploy": [
+    "CMS publish campaign #38 plan-summary-plan-description-documentation-coordination (404 on prod)",
+    "machine/agent-discovery.json merge from agent-discovery-cycle38-t8-patch.json after CMS (#39 articles in patch)",
+    "M1 mirror sync after prod agent-discovery includes #38 post-merge"
+  ]
 }
