@@ -57,15 +57,34 @@
   "public_research": [
     {
       "title": "AI Distribution Agents for TPAs: How the Business Works",
-      "url": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business"
+      "url": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
+      "mirror_md": "docs/research/ai-distribution-agents-tpa-business.md"
     },
     {
       "title": "Secure Data and System Design for a TPA AI Agent Platform",
-      "url": "https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference"
+      "url": "https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference",
+      "mirror_md": "docs/research/tpa-ai-agent-platform-security-reference.md"
+    },
+    {
+      "title": "Form 5500 Coordination Checklist for Plan Sponsors and Administrators",
+      "url": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+      "mirror_md": null
+    },
+    {
+      "title": "Needs Attention Dashboards: What Financial Ops Teams Should Surface First",
+      "url": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
+      "mirror_md": null
     }
+  ],
+  "public_benchmarks": [
+    { "title": "The StratEdge Credit Union Index", "url": "https://www.stratedgeworkflow.com/credit-union-index" },
+    { "title": "Form 5500 Filing Friction by Plan Size", "url": "https://www.stratedgeworkflow.com/form-5500-filing-friction" },
+    { "title": "The StratEdge Bank Index", "url": "https://www.stratedgeworkflow.com/bank-index" },
+    { "title": "The StratEdge Index", "url": "https://www.stratedgeworkflow.com/stratedge-index" }
   ],
   "mirror": {
     "repository": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery",
-    "last_updated": "2026-09-24"
+    "last_updated": "2026-09-24",
+    "release_notes": "docs/research/RELEASE-NOTES.md"
   }
 }

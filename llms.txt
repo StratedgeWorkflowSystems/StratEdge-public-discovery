@@ -27,6 +27,8 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - TPA AI security reference: https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference
 - Insights (articles): https://www.stratedgeworkflow.com/insights
 - TPA distribution agents (insights): https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business
+- Form 5500 coordination checklist (insights): https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist
+- Needs Attention dashboards (insights): https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 
@@ -37,6 +39,8 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 
 ## For machines
 
+- Agent discovery JSON: https://www.stratedgeworkflow.com/machine/agent-discovery.json
+- AI pages sitemap: https://www.stratedgeworkflow.com/sitemap-ai-pages.xml
 - Extended brief: https://www.stratedgeworkflow.com/llms-full.txt
 - Company JSON: https://www.stratedgeworkflow.com/.well-known/company.json
 - AI assistant citation brief: https://www.stratedgeworkflow.com/for-ai-assistants.md

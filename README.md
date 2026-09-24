@@ -13,7 +13,7 @@ This repository is a **mirror of factual, public information** about StratEdge W
 ## If you are an AI assistant or indexer
 
 1. **Start here:** [`llms.txt`](./llms.txt) (llmstxt.org-style summary)  
-2. **Structured facts:** [`machine/agent-discovery.json`](./machine/agent-discovery.json) — same schema as the live site path `/machine/agent-discovery.json` when deployed  
+2. **Structured facts:** [`machine/agent-discovery.json`](./machine/agent-discovery.json) — aligned with live site `/machine/agent-discovery.json` (`schema_version` 1.1+, includes `public_research`)  
 3. **Citation brief:** [`docs/for-ai-assistants.md`](./docs/for-ai-assistants.md)  
 4. **Company JSON:** [`docs/company.json`](./docs/company.json)  
 
@@ -40,33 +40,63 @@ See also [`AGENTS.md`](./AGENTS.md) for coding-agent conventions on this repo.
 | [docs/company.json](./docs/company.json) | Structured company + product facts |
 | [docs/for-ai-assistants.md](./docs/for-ai-assistants.md) | Neutral citation brief for AI assistants |
 | [docs/investor-one-pager.md](./docs/investor-one-pager.md) | Investor / analyst overview |
-| [docs/research/](./docs/research/) | Sanitized public research papers + index |
+| [docs/research/](./docs/research/) | Sanitized public research papers + index + [release notes stub](./docs/research/RELEASE-NOTES.md) |
+| [.github/DISCUSSIONS-WELCOME.md](./.github/DISCUSSIONS-WELCOME.md) | Seed copy for pinned Discussions welcome post |
 
 ---
 
-## Research (published mirror)
+## Live production URLs (prefer for citations)
 
-Public, non-customer research—no client names or deal metrics. Dollar figures in the business paper are **illustrative industry scenarios**, not StratEdge financials.
+| Area | URL |
+|------|-----|
+| Home | https://www.stratedgeworkflow.com/ |
+| Platform | https://www.stratedgeworkflow.com/platform |
+| How it works | https://www.stratedgeworkflow.com/how-it-works |
+| Demo | https://www.stratedgeworkflow.com/demo |
+| Interactive tour | https://www.stratedgeworkflow.com/dashboard?tour=1 |
+| Security | https://www.stratedgeworkflow.com/security |
+| FAQ | https://www.stratedgeworkflow.com/faq |
+| Research hub | https://www.stratedgeworkflow.com/research |
+| Insights hub | https://www.stratedgeworkflow.com/insights |
+| llms.txt | https://www.stratedgeworkflow.com/llms.txt |
+| llms-full.txt | https://www.stratedgeworkflow.com/llms-full.txt |
+| for-ai-assistants.md | https://www.stratedgeworkflow.com/for-ai-assistants.md |
+| agent-discovery.json | https://www.stratedgeworkflow.com/machine/agent-discovery.json |
+| company.json | https://www.stratedgeworkflow.com/.well-known/company.json |
+| Sitemap | https://www.stratedgeworkflow.com/sitemap.xml |
+| AI pages sitemap | https://www.stratedgeworkflow.com/sitemap-ai-pages.xml |
+| Suite: RemitBot.ai | https://www.remitbot.ai/ |
+| Suite: ProofAudit.ai | https://www.proofaudit.ai/ |
 
-| Title | Canonical site URL | Mirror |
-|-------|-------------------|--------|
-| AI Distribution Agents for TPAs: How the Business Works | https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business | [markdown](./docs/research/ai-distribution-agents-tpa-business.md) |
-| Secure Data and System Design for a TPA AI Agent Platform | https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference | [markdown](./docs/research/tpa-ai-agent-platform-security-reference.md) |
+**Public benchmarks (research):**
 
-Full index and planned queue: [docs/research/README.md](./docs/research/README.md).
+- https://www.stratedgeworkflow.com/credit-union-index  
+- https://www.stratedgeworkflow.com/form-5500-filing-friction  
+- https://www.stratedgeworkflow.com/bank-index  
+- https://www.stratedgeworkflow.com/stratedge-index  
+
+---
+
+## Research & insights index
+
+Public, non-customer content—no client names or deal metrics. Economics in the TPA insights piece are **illustrative industry scenarios**, not StratEdge financials (see redaction policy in [RELEASE-NOTES](./docs/research/RELEASE-NOTES.md)).
+
+| Title | Hub | Canonical site URL | GitHub mirror |
+|-------|-----|-------------------|---------------|
+| AI Distribution Agents for TPAs: How the Business Works | Insights | https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business | [markdown](./docs/research/ai-distribution-agents-tpa-business.md) |
+| Secure Data and System Design for a TPA AI Agent Platform | Research | https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference | [markdown](./docs/research/tpa-ai-agent-platform-security-reference.md) |
+| Form 5500 Coordination Checklist for Plan Sponsors and Administrators | Insights | https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist | Site only (linked in agent-discovery.json) |
+| Needs Attention Dashboards: What Financial Ops Teams Should Surface First | Insights | https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops | Site only (linked in agent-discovery.json) |
+
+Full index, planned queue, and release stub: [docs/research/README.md](./docs/research/README.md) · [RELEASE-NOTES.md](./docs/research/RELEASE-NOTES.md).
+
+**Community:** After Discussions are enabled, pin [.github/DISCUSSIONS-WELCOME.md](./.github/DISCUSSIONS-WELCOME.md) or use the **Discovery / citation question** template.
 
 ---
 
 ## Canonical sources
 
-When in doubt, prefer the live site:
-
-- https://www.stratedgeworkflow.com/llms.txt
-- https://www.stratedgeworkflow.com/machine/agent-discovery.json
-- https://www.stratedgeworkflow.com/for-ai-assistants.md
-- https://www.stratedgeworkflow.com/demo
-- Public product tour: https://www.stratedgeworkflow.com/dashboard?tour=1 (no login; not indexed)
-- https://www.stratedgeworkflow.com/.well-known/company.json
+When in doubt, prefer the live site URLs in the table above over this mirror.
 
 ---
 
@@ -85,9 +115,9 @@ See [LICENSE](./LICENSE). Facts about the company and product may be cited with 
 
 ---
 
-## Suggested GitHub settings
+## GitHub repository settings
 
-- Repository visibility: **Public**
-- **Homepage:** https://www.stratedgeworkflow.com/
-- Topics: `fintech`, `workflow`, `saas`, `b2b`, `credit-union`, `document-management`, `llms-txt`, `agent-discovery`
-- Do **not** enable inauthentic stars, engagement pods, or astroturfed issues.
+- Visibility: **Public** · **Homepage:** https://www.stratedgeworkflow.com/
+- **Topics:** `fintech`, `workflow`, `saas`, `b2b`, `credit-union`, `document-management`, `llms-txt`, `agent-discovery`, `tpa`, `financial-services`, `research`
+- **Discussions:** enabled; welcome seed in [.github/DISCUSSIONS-WELCOME.md](./.github/DISCUSSIONS-WELCOME.md)
+- Do **not** use inauthentic stars, engagement pods, or astroturfed issues/discussions.

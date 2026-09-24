@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T19:31:00Z",
+  "last_updated": "2026-09-24T20:42:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -48,6 +48,8 @@
     "research_tpa_security_reference": "https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference",
     "insights": "https://www.stratedgeworkflow.com/insights",
     "insights_tpa_distribution_agents": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
+    "insights_form_5500_coordination_checklist": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+    "insights_needs_attention_dashboards": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
     "interactive_tour": "https://www.stratedgeworkflow.com/dashboard?tour=1",
     "investors": "https://www.stratedgeworkflow.com/investors/",
     "llms_txt": "https://www.stratedgeworkflow.com/llms.txt",
@@ -56,7 +58,65 @@
     "company_json": "https://www.stratedgeworkflow.com/.well-known/company.json",
     "agent_discovery_json": "https://www.stratedgeworkflow.com/machine/agent-discovery.json",
     "ai_to_ai_doc": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
-    "sitemap": "https://www.stratedgeworkflow.com/sitemap.xml"
+    "sitemap": "https://www.stratedgeworkflow.com/sitemap.xml",
+    "sitemap_ai_pages": "https://www.stratedgeworkflow.com/sitemap-ai-pages.xml"
+  },
+  "public_research": {
+    "hubs": [
+      {
+        "title": "StratEdge Research",
+        "url": "https://www.stratedgeworkflow.com/research"
+      },
+      {
+        "title": "StratEdge Insights",
+        "url": "https://www.stratedgeworkflow.com/insights"
+      }
+    ],
+    "benchmarks": [
+      {
+        "title": "The StratEdge Credit Union Index",
+        "url": "https://www.stratedgeworkflow.com/credit-union-index"
+      },
+      {
+        "title": "Form 5500 Filing Friction by Plan Size",
+        "url": "https://www.stratedgeworkflow.com/form-5500-filing-friction"
+      },
+      {
+        "title": "The StratEdge Bank Index",
+        "url": "https://www.stratedgeworkflow.com/bank-index"
+      },
+      {
+        "title": "The StratEdge Index",
+        "url": "https://www.stratedgeworkflow.com/stratedge-index"
+      }
+    ],
+    "articles": [
+      {
+        "title": "AI Distribution Agents for TPAs: How the Business Works",
+        "url": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
+        "type": "insights",
+        "notes": "Illustrative TPA economics; not customer contracts or StratEdge revenue."
+      },
+      {
+        "title": "Secure Data and System Design for a TPA AI Agent Platform",
+        "url": "https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference",
+        "type": "research",
+        "notes": "Reference architecture; not a compliance certification."
+      },
+      {
+        "title": "Form 5500 Coordination Checklist for Plan Sponsors and Administrators",
+        "url": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "type": "insights",
+        "notes": "Operational coordination guidance; not tax or ERISA advice."
+      },
+      {
+        "title": "Needs Attention Dashboards: What Financial Ops Teams Should Surface First",
+        "url": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
+        "type": "insights",
+        "notes": "Priority model for exception queues in document-heavy financial ops."
+      }
+    ],
+    "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
   },
   "icp": [
     "Credit unions",
