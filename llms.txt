@@ -64,6 +64,7 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - Plan e-signature and consent documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination
 - Plan fee disclosure documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination
 - Plan summary plan description documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination
+- Plan summary annual report documentation coordination (insights): https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 

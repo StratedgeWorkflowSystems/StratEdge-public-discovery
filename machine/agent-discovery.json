@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T22:53:47Z",
+  "last_updated": "2026-09-24T23:02:08Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -136,7 +136,9 @@
     "insights_plan_fee_disclosure": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination",
     "insights_plan_fee_disclosure_faq": "https://www.stratedgeworkflow.com/insights/plan-fee-disclosure-documentation-coordination.faq.json",
     "insights_plan_summary_plan_description": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
-    "insights_plan_summary_plan_description_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination.faq.json"
+    "insights_plan_summary_plan_description_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination.faq.json",
+    "insights_plan_summary_annual_report": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+    "insights_plan_summary_annual_report_faq": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -439,9 +441,26 @@
         "type": "insights",
         "notes": "SPD/SMM distribution, version control, and participant acknowledgment evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Summary Annual Report (SAR) Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+        "type": "insights",
+        "notes": "Summary annual report preparation, distribution, and participant notice evidence; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination.faq.json"
       }
     ],
-    "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
+    "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
+    "insight_clusters": {
+      "plan_summary_annual_report": [
+        "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ]
+    }
   },
   "icp": [
     "Credit unions",
@@ -847,6 +866,14 @@
       "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_summary_annual_report": [
+      "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+      "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
