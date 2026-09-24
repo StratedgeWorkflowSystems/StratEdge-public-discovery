@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T21:10:00Z",
+  "last_updated": "2026-09-24T22:00:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -63,8 +63,6 @@
     "insights_tpa_document_tracking_form_5500_faq": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json",
     "insights_credit_union_ncua_examination": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness",
     "insights_credit_union_ncua_examination_faq": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness.faq.json",
-    "insights_tpa_year_round_benefits_ops": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
-    "insights_tpa_year_round_benefits_ops_faq": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json",
     "form_5500_filing_friction": "https://www.stratedgeworkflow.com/form-5500-filing-friction",
     "benchmark_stratedge_index": "https://www.stratedgeworkflow.com/stratedge-index",
     "benchmark_credit_union_index": "https://www.stratedgeworkflow.com/credit-union-index",
@@ -78,7 +76,11 @@
     "agent_discovery_json": "https://www.stratedgeworkflow.com/machine/agent-discovery.json",
     "ai_to_ai_doc": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
     "sitemap": "https://www.stratedgeworkflow.com/sitemap.xml",
-    "sitemap_ai_pages": "https://www.stratedgeworkflow.com/sitemap-ai-pages.xml"
+    "sitemap_ai_pages": "https://www.stratedgeworkflow.com/sitemap-ai-pages.xml",
+    "insights_tpa_year_round_benefits_operations": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+    "insights_tpa_year_round_benefits_operations_faq": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json",
+    "insights_accounting_firm_document_tracking": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking",
+    "insights_accounting_firm_document_tracking_faq": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -118,7 +120,7 @@
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents.faq.json"
       },
       {
-        "title": "AI infrastructure for financial operations — not another chatbot",
+        "title": "AI infrastructure for financial operations \u2014 not another chatbot",
         "url": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
         "type": "insights",
         "notes": "Workflow control layer for intake, evidence, routing, and audit.",
@@ -162,7 +164,7 @@
         "title": "What TPAs Should Track Before Form 5500 Season Peaks",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
         "type": "insights",
-        "notes": "TPA document tracking timeline; coordination only—not ERISA or filing advice.",
+        "notes": "TPA document tracking timeline; coordination only\u2014not ERISA or filing advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json"
       },
       {
@@ -176,8 +178,15 @@
         "title": "Year-Round TPA Benefits Operations: A Checklist for Smooth Sponsor Handoffs and Coordination",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
         "type": "insights",
-        "notes": "Year-round TPA/sponsor/recordkeeper coordination; not ERISA or filing advice.",
+        "notes": "Year-round TPA sponsor/recordkeeper coordination; not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json"
+      },
+      {
+        "title": "Document Request Tracking for Accounting Firms: A Practical Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking",
+        "type": "insights",
+        "notes": "Accounting firm client document cycles; not tax or audit advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -233,5 +242,28 @@
       "Publishing fabricated press or funding announcements",
       "Scraping or storing customer PII from non-public sources"
     ]
+  },
+  "insight_cross_link_mesh": {
+    "tactic": "T8",
+    "verified_on_prod_html": "2026-09-24T22:30:00Z",
+    "clusters": {
+      "tpa_form_5500": [
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist"
+      ],
+      "credit_union_exam": [
+        "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
+        "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness"
+      ],
+      "cross_icp": [
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "accounting_firms": [
+        "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist"
+      ]
+    }
   }
 }
