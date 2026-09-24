@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T20:10:00Z",
+  "last_updated": "2026-09-24T21:20:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -84,7 +84,11 @@
     "insights_plan_sponsor_benefits_document_accountability": "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
     "insights_plan_sponsor_benefits_document_accountability_faq": "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability.faq.json",
     "insights_recordkeeper_census_payroll_handoff": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
-    "insights_recordkeeper_census_payroll_handoff_faq": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist.faq.json"
+    "insights_recordkeeper_census_payroll_handoff_faq": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist.faq.json",
+    "insights_credit_union_supervisory_committee_document_workflow": "https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow",
+    "insights_credit_union_supervisory_committee_document_workflow_faq": "https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow.faq.json",
+    "insights_tpa_plan_audit_support_document_evidence": "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
+    "insights_tpa_plan_audit_support_document_evidence_faq": "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -205,6 +209,20 @@
         "type": "insights",
         "notes": "Recordkeeper census and payroll handoffs; not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist.faq.json"
+      },
+      {
+        "title": "Credit Union Supervisory Committee Document Workflow: A Practical Request-and-Evidence Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow",
+        "type": "insights",
+        "notes": "Supervisory committee document requests and evidence; not legal or regulatory advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow.faq.json"
+      },
+      {
+        "title": "TPA Plan Audit Support Document Workflow: A Practical Evidence Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
+        "type": "insights",
+        "notes": "TPA audit PBC and multi-party evidence coordination; not audit or ERISA advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -263,7 +281,7 @@
   },
   "insight_cross_link_mesh": {
     "tactic": "T8",
-    "verified_on_prod_html": "2026-09-24T200713Z",
+    "verified_on_prod_html": "2026-09-24T20:25:00Z",
     "clusters": {
       "tpa_form_5500": [
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
@@ -272,7 +290,14 @@
       ],
       "credit_union_exam": [
         "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
-        "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness"
+        "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness",
+        "https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow"
+      ],
+      "credit_union_governance": [
+        "https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow",
+        "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness",
+        "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ],
       "cross_icp": [
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
@@ -296,10 +321,19 @@
         "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "tpa_audit_support": [
+        "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     },
     "pending_deploy": [
-      "M1 mirror sync after prod agent-discovery merge"
+      "M1 mirror sync after prod agent-discovery includes #13/#14"
     ]
   }
 }

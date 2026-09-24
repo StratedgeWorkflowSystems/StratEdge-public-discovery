@@ -28,6 +28,8 @@ All entries are **public, non-customer** research—no client names, pilot data,
 | Document Request Tracking for Accounting Firms: A Practical Checklist | https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking |
 | Plan Sponsor Benefits Document Accountability: A Practical Governance Checklist | https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability |
 | Recordkeeper Census and Payroll Handoff Checklist for Retirement Plan Operations | https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist |
+| Credit Union Supervisory Committee Document Workflow: A Practical Request-and-Evidence Checklist | https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow |
+| TPA Plan Audit Support Document Workflow: A Practical Evidence Checklist | https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence |
 
 ## Markdown mirror (this repo)
 
