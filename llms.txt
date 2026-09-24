@@ -35,6 +35,8 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - TPA document tracking before Form 5500 (insights): https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500
 - Credit union NCUA examination readiness (insights): https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness
 - TPA year-round benefits operations (insights): https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist
+- Accounting firm document request tracking (insights): https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking
+- Accounting firm document request tracking (insights): https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 
