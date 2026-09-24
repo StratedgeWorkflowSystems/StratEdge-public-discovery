@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T22:00:00Z",
+  "last_updated": "2026-09-24T20:10:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -80,7 +80,11 @@
     "insights_tpa_year_round_benefits_operations": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
     "insights_tpa_year_round_benefits_operations_faq": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist.faq.json",
     "insights_accounting_firm_document_tracking": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking",
-    "insights_accounting_firm_document_tracking_faq": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking.faq.json"
+    "insights_accounting_firm_document_tracking_faq": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking.faq.json",
+    "insights_plan_sponsor_benefits_document_accountability": "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+    "insights_plan_sponsor_benefits_document_accountability_faq": "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability.faq.json",
+    "insights_recordkeeper_census_payroll_handoff": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+    "insights_recordkeeper_census_payroll_handoff_faq": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -187,6 +191,20 @@
         "type": "insights",
         "notes": "Accounting firm client document cycles; not tax or audit advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking.faq.json"
+      },
+      {
+        "title": "Plan Sponsor Benefits Document Accountability: A Practical Governance Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "type": "insights",
+        "notes": "Sponsor-side document governance; not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability.faq.json"
+      },
+      {
+        "title": "Recordkeeper Census and Payroll Handoff Checklist for Retirement Plan Operations",
+        "url": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "type": "insights",
+        "notes": "Recordkeeper census and payroll handoffs; not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -245,7 +263,7 @@
   },
   "insight_cross_link_mesh": {
     "tactic": "T8",
-    "verified_on_prod_html": "2026-09-24T22:30:00Z",
+    "verified_on_prod_html": "2026-09-24T200713Z",
     "clusters": {
       "tpa_form_5500": [
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
@@ -263,7 +281,25 @@
         "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist"
+      ],
+      "plan_sponsors": [
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "recordkeepers": [
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
-    }
+    },
+    "pending_deploy": [
+      "M1 mirror sync after prod agent-discovery merge"
+    ]
   }
 }
