@@ -30,6 +30,7 @@ All entries are **public, non-customer** research—no client names, pilot data,
 | Recordkeeper Census and Payroll Handoff Checklist for Retirement Plan Operations | https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist |
 | Credit Union Supervisory Committee Document Workflow: A Practical Request-and-Evidence Checklist | https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow |
 | TPA Plan Audit Support Document Workflow: A Practical Evidence Checklist | https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence |
+| Plan Fiduciary Committee Document Evidence: A Practical Governance Checklist | https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence |
 
 ## Markdown mirror (this repo)
 

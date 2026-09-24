@@ -40,6 +40,7 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - Recordkeeper census payroll handoff (insights): https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist
 - Credit union supervisory committee document workflow (insights): https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow
 - TPA plan audit support document evidence (insights): https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence
+- Plan fiduciary committee document evidence (insights): https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 
