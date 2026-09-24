@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T21:17:17Z",
+  "last_updated": "2026-09-24T21:19:50Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -128,7 +128,9 @@
     "insights_plan_automatic_enrollment": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
     "insights_plan_automatic_enrollment_faq": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination.faq.json",
     "insights_plan_catch_up_contribution": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
-    "insights_plan_catch_up_contribution_faq": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json"
+    "insights_plan_catch_up_contribution_faq": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json",
+    "insights_plan_designated_roth_catch_up": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
+    "insights_plan_designated_roth_catch_up_faq": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -168,7 +170,7 @@
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents.faq.json"
       },
       {
-        "title": "AI infrastructure for financial operations \u2014 not another chatbot",
+        "title": "AI infrastructure for financial operations — not another chatbot",
         "url": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
         "type": "insights",
         "notes": "Workflow control layer for intake, evidence, routing, and audit.",
@@ -212,7 +214,7 @@
         "title": "What TPAs Should Track Before Form 5500 Season Peaks",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
         "type": "insights",
-        "notes": "TPA document tracking timeline; coordination only\u2014not ERISA or filing advice.",
+        "notes": "TPA document tracking timeline; coordination only—not ERISA or filing advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json"
       },
       {
@@ -352,57 +354,64 @@
         "title": "Plan Rehire and Re-enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
         "type": "insights",
-        "notes": "Rehire eligibility, enrollment elections, and payroll restart evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "Rehire eligibility, enrollment elections, and payroll restart evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Elective Deferral Change Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
         "type": "insights",
-        "notes": "Deferral election changes, payroll effective dates, and confirmation evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Deferral election changes, payroll effective dates, and confirmation evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Employer Match and Profit-Sharing Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
         "type": "insights",
-        "notes": "Employer match, true-up, and profit-sharing allocation evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Employer match, true-up, and profit-sharing allocation evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan ADP and ACP Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
         "type": "insights",
-        "notes": "ADP/ACP census, HCE classification, and correction evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "ADP/ACP census, HCE classification, and correction evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Top-Heavy Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
         "type": "insights",
-        "notes": "Top-heavy determination, key employee balances, and minimum contribution evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Top-heavy determination, key employee balances, and minimum contribution evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Safe Harbor Notice Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
         "type": "insights",
-        "notes": "Safe harbor notice timing, delivery evidence, and plan-year alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Safe harbor notice timing, delivery evidence, and plan-year alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Automatic Enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
         "type": "insights",
-        "notes": "Automatic enrollment notice timing, opt-out evidence, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Automatic enrollment notice timing, opt-out evidence, and payroll alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Catch-Up Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
         "type": "insights",
-        "notes": "Catch-up eligibility, deferral elections, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Catch-up eligibility, deferral elections, and payroll alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Designated Roth Catch-Up Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
+        "type": "insights",
+        "notes": "SECURE 2.0 designated Roth catch-up eligibility, payroll coding, and evidence; coordination only—not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -461,7 +470,7 @@
   },
   "insight_cross_link_mesh": {
     "tactic": "T8",
-    "verified_on_prod_html": "2026-09-24T211140Z",
+    "verified_on_prod_html": "2026-09-24T21:19:50Z",
     "clusters": {
       "tpa_form_5500": [
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
@@ -676,12 +685,21 @@
         "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_designated_roth_catch_up": [
+        "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     },
     "pending_deploy": [
-      "CMS publish campaign #34 plan-catch-up-contribution-documentation-coordination",
-      "machine/agent-discovery.json merge from agent-discovery-cycle32-t8-patch.json (add #34 row after CMS; **35** articles in patch)",
-      "M1 mirror sync after prod agent-discovery includes #18-#34"
+      "CMS publish campaign #34 plan-catch-up-contribution-documentation-coordination (still 404 on prod)",
+      "CMS publish campaign #35 plan-designated-roth-catch-up-documentation-coordination",
+      "machine/agent-discovery.json merge from agent-discovery-cycle33-t8-patch.json (add #35 row after CMS; **36** articles in patch)",
+      "M1 mirror sync after prod agent-discovery includes #34-#35"
     ]
   },
   "relatedInsights": {
@@ -753,11 +771,20 @@
       "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_designated_roth_catch_up": [
+      "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
   },
   "pending_deploy": [
-    "CMS publish campaign #34 plan-catch-up-contribution-documentation-coordination",
-    "machine/agent-discovery.json merge from agent-discovery-cycle32-t8-patch.json (add #34 row after CMS; **35** articles in patch)",
-    "M1 mirror sync after prod agent-discovery includes #18-#34"
+    "CMS publish campaign #34 plan-catch-up-contribution-documentation-coordination (still 404 on prod)",
+    "CMS publish campaign #35 plan-designated-roth-catch-up-documentation-coordination",
+    "machine/agent-discovery.json merge from agent-discovery-cycle33-t8-patch.json (add #35 row after CMS; **36** articles in patch)",
+    "M1 mirror sync after prod agent-discovery includes #34-#35"
   ]
 }
