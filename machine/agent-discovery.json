@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T20:42:00Z",
+  "last_updated": "2026-09-24T20:45:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -50,6 +50,15 @@
     "insights_tpa_distribution_agents": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
     "insights_form_5500_coordination_checklist": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
     "insights_needs_attention_dashboards": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
+    "insights_needs_attention_dashboards_faq": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops.faq.json",
+    "insights_organization_brain": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents",
+    "insights_ai_infrastructure_financial_ops": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
+    "insights_credit_union_spreadsheet_workflows": "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
+    "insights_tpa_document_tracking_form_5500": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+    "form_5500_filing_friction": "https://www.stratedgeworkflow.com/form-5500-filing-friction",
+    "benchmark_stratedge_index": "https://www.stratedgeworkflow.com/stratedge-index",
+    "benchmark_credit_union_index": "https://www.stratedgeworkflow.com/credit-union-index",
+    "benchmark_bank_index": "https://www.stratedgeworkflow.com/bank-index",
     "interactive_tour": "https://www.stratedgeworkflow.com/dashboard?tour=1",
     "investors": "https://www.stratedgeworkflow.com/investors/",
     "llms_txt": "https://www.stratedgeworkflow.com/llms.txt",
@@ -92,6 +101,18 @@
     ],
     "articles": [
       {
+        "title": "Institutional knowledge as training substrate: organization brain for AI agents",
+        "url": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents",
+        "type": "insights",
+        "notes": "Organization brain / living business map for executable AI in financial ops."
+      },
+      {
+        "title": "AI infrastructure for financial operations — not another chatbot",
+        "url": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
+        "type": "insights",
+        "notes": "Workflow control layer for intake, evidence, routing, and audit."
+      },
+      {
         "title": "AI Distribution Agents for TPAs: How the Business Works",
         "url": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
         "type": "insights",
@@ -113,7 +134,20 @@
         "title": "Needs Attention Dashboards: What Financial Ops Teams Should Surface First",
         "url": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
         "type": "insights",
-        "notes": "Priority model for exception queues in document-heavy financial ops."
+        "notes": "Priority model for exception queues in document-heavy financial ops.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops.faq.json"
+      },
+      {
+        "title": "How Credit Unions Can Replace Spreadsheet Workflows Without a Core Conversion",
+        "url": "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
+        "type": "insights",
+        "notes": "Credit union workflow control layer; not core replacement or legal advice."
+      },
+      {
+        "title": "What TPAs Should Track Before Form 5500 Season Peaks",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+        "type": "insights",
+        "notes": "TPA document tracking timeline; coordination only—not ERISA or filing advice."
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"

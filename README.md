@@ -83,10 +83,14 @@ Public, non-customer content—no client names or deal metrics. Economics in the
 
 | Title | Hub | Canonical site URL | GitHub mirror |
 |-------|-----|-------------------|---------------|
+| Institutional knowledge as training substrate: organization brain for AI agents | Insights | https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents | Site only (linked in agent-discovery.json) |
+| AI infrastructure for financial operations — not another chatbot | Insights | https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations | Site only (linked in agent-discovery.json) |
 | AI Distribution Agents for TPAs: How the Business Works | Insights | https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business | [markdown](./docs/research/ai-distribution-agents-tpa-business.md) |
 | Secure Data and System Design for a TPA AI Agent Platform | Research | https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference | [markdown](./docs/research/tpa-ai-agent-platform-security-reference.md) |
 | Form 5500 Coordination Checklist for Plan Sponsors and Administrators | Insights | https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist | Site only (linked in agent-discovery.json) |
-| Needs Attention Dashboards: What Financial Ops Teams Should Surface First | Insights | https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops | Site only (linked in agent-discovery.json) |
+| Needs Attention Dashboards: What Financial Ops Teams Should Surface First | Insights | https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops | Site only ([FAQ sidecar](https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops.faq.json)) |
+| How Credit Unions Can Replace Spreadsheet Workflows Without a Core Conversion | Insights | https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows | Site only (linked in agent-discovery.json) |
+| What TPAs Should Track Before Form 5500 Season Peaks | Insights | https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500 | Site only (linked in agent-discovery.json) |
 
 Full index, planned queue, and release stub: [docs/research/README.md](./docs/research/README.md) · [RELEASE-NOTES.md](./docs/research/RELEASE-NOTES.md).
 

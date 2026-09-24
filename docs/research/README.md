@@ -17,8 +17,12 @@ All entries are **public, non-customer** research—no client names, pilot data,
 
 | Title | Canonical URL |
 |-------|---------------|
+| Institutional knowledge as training substrate: organization brain for AI agents | https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents |
+| AI infrastructure for financial operations — not another chatbot | https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations |
 | Form 5500 Coordination Checklist for Plan Sponsors and Administrators | https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist |
 | Needs Attention Dashboards: What Financial Ops Teams Should Surface First | https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops |
+| How Credit Unions Can Replace Spreadsheet Workflows Without a Core Conversion | https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows |
+| What TPAs Should Track Before Form 5500 Season Peaks | https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500 |
 
 ## Public benchmarks
 
