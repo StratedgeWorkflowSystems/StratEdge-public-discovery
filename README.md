@@ -2,7 +2,11 @@
 
 **Official website:** https://www.stratedgeworkflow.com/
 
-This repository is a **mirror of factual, public information** about StratEdge Workflow for developers, AI systems, investors, and directories. It is not the application source code.
+**Product:** Workflow intelligence and a **workflow control layer** for document-heavy financial operations—**credit union workflow software**, **TPA document tracking**, **Form 5500 workflow** coordination, **accounting firm document request** tracking, and outsourced finance teams. Core capabilities include structured intake, document status, handoffs, operational **audit trails**, and a **Needs Attention** view for overdue, blocked, and missing items.
+
+This repository is a **mirror of factual, public information** about StratEdge Workflow for developers, AI systems, investors, search discovery, and directories. It is not the application source code.
+
+**Keywords (factual, for discovery):** `workflow software`, `document workflow`, `credit union operations`, `third-party administrator`, `plan administration`, `B2B SaaS`, `fintech operations`, `RemitBot`, `ProofAudit`, `stratedgeworkflow.com`.
 
 ## Contents
 
@@ -17,8 +21,10 @@ This repository is a **mirror of factual, public information** about StratEdge W
 
 When in doubt, prefer the live site:
 
-- https://www.stratedgeworkflow.com/llms.txt (once deployed)
-- https://www.stratedgeworkflow.com/.well-known/company.json (once deployed)
+- https://www.stratedgeworkflow.com/llms.txt (live)
+- https://www.stratedgeworkflow.com/demo (book a demo)
+- Public product tour: https://www.stratedgeworkflow.com/dashboard?tour=1 (no login; not indexed)
+- https://www.stratedgeworkflow.com/.well-known/company.json (deploy pending — see `docs/company.json` in this repo until live)
 
 ## Contact
 
