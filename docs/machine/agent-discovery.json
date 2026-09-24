@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T20:35:00Z",
+  "last_updated": "2026-09-24T21:17:17Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -94,7 +94,41 @@
     "insights_benefits_open_enrollment": "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
     "insights_benefits_open_enrollment_faq": "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination.faq.json",
     "insights_plan_distribution_rollover": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
-    "insights_plan_distribution_rollover_faq": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination.faq.json"
+    "insights_plan_distribution_rollover_faq": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination.faq.json",
+    "insights_plan_loan_documentation": "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+    "insights_plan_loan_documentation_faq": "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination.faq.json",
+    "insights_plan_qdro_documentation": "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+    "insights_plan_qdro_documentation_faq": "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination.faq.json",
+    "insights_plan_hardship_withdrawal": "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+    "insights_plan_hardship_withdrawal_faq": "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination.faq.json",
+    "insights_plan_termination_blackout": "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+    "insights_plan_termination_blackout_faq": "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination.faq.json",
+    "insights_plan_rmd_documentation": "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+    "insights_plan_rmd_documentation_faq": "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination.faq.json",
+    "insights_plan_corrective_distribution": "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+    "insights_plan_corrective_distribution_faq": "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination.faq.json",
+    "insights_plan_missing_participant_auto_rollover": "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination",
+    "insights_plan_missing_participant_auto_rollover_faq": "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination.faq.json",
+    "insights_plan_beneficiary_death_benefit": "https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination",
+    "insights_plan_beneficiary_death_benefit_faq": "https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination.faq.json",
+    "insights_plan_loan_default_deemed_distribution": "https://www.stratedgeworkflow.com/insights/plan-loan-default-deemed-distribution-documentation-coordination",
+    "insights_plan_loan_default_deemed_distribution_faq": "https://www.stratedgeworkflow.com/insights/plan-loan-default-deemed-distribution-documentation-coordination.faq.json",
+    "insights_plan_rehire_re_enrollment": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
+    "insights_plan_rehire_re_enrollment_faq": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination.faq.json",
+    "insights_plan_elective_deferral_change": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+    "insights_plan_elective_deferral_change_faq": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination.faq.json",
+    "insights_plan_employer_match_profit_sharing": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+    "insights_plan_employer_match_profit_sharing_faq": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination.faq.json",
+    "insights_plan_adp_acp_testing": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+    "insights_plan_adp_acp_testing_faq": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination.faq.json",
+    "insights_plan_top_heavy_testing": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
+    "insights_plan_top_heavy_testing_faq": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination.faq.json",
+    "insights_plan_safe_harbor_notice": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
+    "insights_plan_safe_harbor_notice_faq": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination.faq.json",
+    "insights_plan_automatic_enrollment": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
+    "insights_plan_automatic_enrollment_faq": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination.faq.json",
+    "insights_plan_catch_up_contribution": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
+    "insights_plan_catch_up_contribution_faq": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -250,6 +284,125 @@
         "type": "insights",
         "notes": "Distribution and rollover evidence coordination; not ERISA, tax, or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination.faq.json"
+      },
+      {
+        "title": "Plan Loan Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+        "type": "insights",
+        "notes": "Participant loan evidence and payroll repayment coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan QDRO Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+        "type": "insights",
+        "notes": "QDRO intake and court-order evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Hardship Withdrawal Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+        "type": "insights",
+        "notes": "Hardship withdrawal substantiation and distribution evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Termination and Blackout Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+        "type": "insights",
+        "notes": "Plan termination blackout notices and final distribution evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Required Minimum Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+        "type": "insights",
+        "notes": "RMD participant outreach, election, and distribution evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Corrective Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "type": "insights",
+        "notes": "Corrective distribution remediation evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Missing Participant and Auto-Rollover Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination",
+        "type": "insights",
+        "notes": "Missing-participant search, notice, and auto-rollover evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Beneficiary and Death Benefit Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination",
+        "type": "insights",
+        "notes": "Beneficiary designation and death benefit survivor evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Loan Default and Deemed Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-loan-default-deemed-distribution-documentation-coordination",
+        "type": "insights",
+        "notes": "Loan default cure notices, deemed distribution, and offset evidence coordination; not ERISA, tax, or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-loan-default-deemed-distribution-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Rehire and Re-enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
+        "type": "insights",
+        "notes": "Rehire eligibility, enrollment elections, and payroll restart evidence; coordination only\u2014not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Elective Deferral Change Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "type": "insights",
+        "notes": "Deferral election changes, payroll effective dates, and confirmation evidence; coordination only\u2014not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Employer Match and Profit-Sharing Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+        "type": "insights",
+        "notes": "Employer match, true-up, and profit-sharing allocation evidence; coordination only\u2014not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan ADP and ACP Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+        "type": "insights",
+        "notes": "ADP/ACP census, HCE classification, and correction evidence; coordination only\u2014not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Top-Heavy Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
+        "type": "insights",
+        "notes": "Top-heavy determination, key employee balances, and minimum contribution evidence; coordination only\u2014not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Safe Harbor Notice Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
+        "type": "insights",
+        "notes": "Safe harbor notice timing, delivery evidence, and plan-year alignment; coordination only\u2014not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Automatic Enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
+        "type": "insights",
+        "notes": "Automatic enrollment notice timing, opt-out evidence, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination.faq.json"
+      },
+      {
+        "title": "Plan Catch-Up Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+        "url": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
+        "type": "insights",
+        "notes": "Catch-up eligibility, deferral elections, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
@@ -308,7 +461,7 @@
   },
   "insight_cross_link_mesh": {
     "tactic": "T8",
-    "verified_on_prod_html": "2026-09-24T2035Z",
+    "verified_on_prod_html": "2026-09-24T211140Z",
     "clusters": {
       "tpa_form_5500": [
         "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
@@ -377,15 +530,234 @@
       ],
       "plan_distributions": [
         "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
         "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
         "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
         "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_qdro": [
+        "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_hardship": [
+        "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_termination": [
+        "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_rmd": [
+        "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_corrective": [
+        "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_missing_participant": [
+        "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_beneficiary_death": [
+        "https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_loan_default": [
+        "https://www.stratedgeworkflow.com/insights/plan-loan-default-deemed-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_elective_deferral_change": [
+        "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_employer_match_profit_sharing": [
+        "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_adp_acp_testing": [
+        "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_top_heavy_testing": [
+        "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+        "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_safe_harbor_notice": [
+        "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_automatic_enrollment": [
+        "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "plan_catch_up_contribution": [
+        "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     },
     "pending_deploy": [
-      "M1 mirror sync after prod agent-discovery includes #16/#17"
+      "CMS publish campaign #34 plan-catch-up-contribution-documentation-coordination",
+      "machine/agent-discovery.json merge from agent-discovery-cycle32-t8-patch.json (add #34 row after CMS; **35** articles in patch)",
+      "M1 mirror sync after prod agent-discovery includes #18-#34"
     ]
-  }
+  },
+  "relatedInsights": {
+    "plan_rehire": [
+      "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_elective_deferral_change": [
+      "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_employer_match_profit_sharing": [
+      "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_adp_acp_testing": [
+      "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+      "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_top_heavy_testing": [
+      "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
+      "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_safe_harbor_notice": [
+      "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_automatic_enrollment": [
+      "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "plan_catch_up_contribution": [
+      "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ]
+  },
+  "pending_deploy": [
+    "CMS publish campaign #34 plan-catch-up-contribution-documentation-coordination",
+    "machine/agent-discovery.json merge from agent-discovery-cycle32-t8-patch.json (add #34 row after CMS; **35** articles in patch)",
+    "M1 mirror sync after prod agent-discovery includes #18-#34"
+  ]
 }

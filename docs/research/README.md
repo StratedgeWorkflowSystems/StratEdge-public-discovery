@@ -33,6 +33,23 @@ All entries are **public, non-customer** research—no client names, pilot data,
 | Plan Fiduciary Committee Document Evidence: A Practical Governance Checklist | https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence |
 | Benefits Open Enrollment Document Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination |
 | Plan Distribution and Rollover Document Coordination: A Practical Checklist | https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination |
+| Plan Loan Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination |
+| Plan QDRO Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination |
+| Plan Hardship Withdrawal Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination |
+| Plan Termination and Blackout Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination |
+| Plan Required Minimum Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination |
+| Plan Corrective Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination |
+| Plan Missing Participant and Auto-Rollover Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination |
+| Plan Beneficiary and Death Benefit Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination |
+| Plan Loan Default and Deemed Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-loan-default-deemed-distribution-documentation-coordination |
+| Plan Rehire and Re-enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination |
+| Plan Elective Deferral Change Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination |
+| Plan Employer Match and Profit-Sharing Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination |
+| Plan ADP and ACP Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination |
+| Plan Top-Heavy Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination |
+| Plan Safe Harbor Notice Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination |
+| Plan Automatic Enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination |
+| Plan Catch-Up Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs | https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination |
 
 ## Markdown mirror (this repo)
 
