@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-24T22:25:30Z",
+  "last_updated": "2026-09-24T22:33:00Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -172,7 +172,7 @@
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents.faq.json"
       },
       {
-        "title": "AI infrastructure for financial operations \u2014 not another chatbot",
+        "title": "AI infrastructure for financial operations — not another chatbot",
         "url": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
         "type": "insights",
         "notes": "Workflow control layer for intake, evidence, routing, and audit.",
@@ -216,7 +216,7 @@
         "title": "What TPAs Should Track Before Form 5500 Season Peaks",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
         "type": "insights",
-        "notes": "TPA document tracking timeline; coordination only\u2014not ERISA or filing advice.",
+        "notes": "TPA document tracking timeline; coordination only—not ERISA or filing advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json"
       },
       {
@@ -356,70 +356,70 @@
         "title": "Plan Rehire and Re-enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
         "type": "insights",
-        "notes": "Rehire eligibility, enrollment elections, and payroll restart evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "Rehire eligibility, enrollment elections, and payroll restart evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Elective Deferral Change Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
         "type": "insights",
-        "notes": "Deferral election changes, payroll effective dates, and confirmation evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Deferral election changes, payroll effective dates, and confirmation evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Employer Match and Profit-Sharing Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
         "type": "insights",
-        "notes": "Employer match, true-up, and profit-sharing allocation evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Employer match, true-up, and profit-sharing allocation evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan ADP and ACP Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
         "type": "insights",
-        "notes": "ADP/ACP census, HCE classification, and correction evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "ADP/ACP census, HCE classification, and correction evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Top-Heavy Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
         "type": "insights",
-        "notes": "Top-heavy determination, key employee balances, and minimum contribution evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Top-heavy determination, key employee balances, and minimum contribution evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Safe Harbor Notice Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
         "type": "insights",
-        "notes": "Safe harbor notice timing, delivery evidence, and plan-year alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Safe harbor notice timing, delivery evidence, and plan-year alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Automatic Enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
         "type": "insights",
-        "notes": "Automatic enrollment notice timing, opt-out evidence, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Automatic enrollment notice timing, opt-out evidence, and payroll alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Catch-Up Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
         "type": "insights",
-        "notes": "Catch-up eligibility, deferral elections, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Catch-up eligibility, deferral elections, and payroll alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Designated Roth Catch-Up Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
         "type": "insights",
-        "notes": "SECURE 2.0 designated Roth catch-up eligibility, payroll coding, and evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "SECURE 2.0 designated Roth catch-up eligibility, payroll coding, and evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json"
       },
       {
         "title": "Plan E-Signature and Consent Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
         "type": "insights",
-        "notes": "Participant e-signature consent and election audit trails; coordination only\u2014not ERISA or legal advice.",
+        "notes": "Participant e-signature consent and election audit trails; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json"
       }
     ],
@@ -799,10 +799,5 @@
       "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
-  },
-  "pending_deploy": [
-    "CMS publish campaign #36 plan-esignature-consent-documentation-coordination (404 on prod)",
-    "machine/agent-discovery.json merge from agent-discovery-cycle36-t8-patch.json after CMS (#37 articles in patch)",
-    "M1 mirror sync after prod agent-discovery includes #36 post-merge"
-  ]
+  }
 }
