@@ -1,4 +1,5 @@
 {
+  "$schema_note": "Deploy to https://www.stratedgeworkflow.com/.well-known/company.json",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
     "brand_name": "StratEdge Workflow",
@@ -13,7 +14,9 @@
       "country": "US"
     },
     "founding_date": null,
-    "founding_date_note": "Not published publicly; contact info@stratedgeworkflow.com"
+    "founding_date_note": "Not published publicly; contact info@stratedgeworkflow.com",
+    "employee_count": null,
+    "employee_count_note": "Not published publicly"
   },
   "products": [
     {
@@ -28,13 +31,29 @@
         "Fintech",
         "B2B software"
       ],
+      "capabilities": [
+        "Structured workflow intake",
+        "Document request and tracking",
+        "Task ownership and due dates",
+        "Needs Attention prioritization",
+        "Operational audit trail",
+        "Advisory AI assistant (server-side)"
+      ],
       "demo_url": "https://www.stratedgeworkflow.com/demo",
       "tour_url": "https://www.stratedgeworkflow.com/dashboard?tour=1"
     }
   ],
   "related_products": [
-    { "name": "RemitBot.ai", "url": "https://www.remitbot.ai/" },
-    { "name": "ProofAudit.ai", "url": "https://www.proofaudit.ai/" }
+    {
+      "name": "RemitBot.ai",
+      "url": "https://www.remitbot.ai/",
+      "relationship": "suite_product"
+    },
+    {
+      "name": "ProofAudit.ai",
+      "url": "https://www.proofaudit.ai/",
+      "relationship": "suite_product"
+    }
   ],
   "ideal_customers": [
     "Credit unions",
@@ -43,48 +62,199 @@
     "Outsourced finance teams",
     "Plan administrators"
   ],
-  "traction_public_statement": "Active pilots and implementations underway with credit unions, TPAs, and accounting firms per public marketing site (no customer list in this mirror).",
-  "funding_status": "Not published on this mirror; general inquiries via info@stratedgeworkflow.com or https://www.stratedgeworkflow.com/",
-  "discovery": {
-    "llms_txt_site": "https://www.stratedgeworkflow.com/llms.txt",
-    "llms_txt_mirror_raw": "https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/llms.txt",
-    "agent_discovery_site": "https://www.stratedgeworkflow.com/machine/agent-discovery.json",
-    "agent_discovery_mirror_raw": "https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/machine/agent-discovery.json",
-    "for_ai_assistants_site": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
-    "for_ai_assistants_mirror_raw": "https://raw.githubusercontent.com/StratedgeWorkflowSystems/StratEdge-public-discovery/main/docs/for-ai-assistants.md",
-    "research_index_mirror": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research"
+  "traction_public_statement": "Active pilots and implementations underway with credit unions, TPAs, and accounting firms per public marketing site; no fabricated metrics.",
+  "funding_status": "Not disclosed publicly; contact founder via info@stratedgeworkflow.com",
+  "machine_readable": {
+    "llms_txt": "https://www.stratedgeworkflow.com/llms.txt",
+    "llms_full_txt": "https://www.stratedgeworkflow.com/llms-full.txt",
+    "for_ai_assistants": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
+    "agent_discovery_json": "https://www.stratedgeworkflow.com/machine/agent-discovery.json",
+    "sitemap": "https://www.stratedgeworkflow.com/sitemap.xml",
+    "sitemap_ai_pages": "https://www.stratedgeworkflow.com/sitemap-ai-pages.xml"
   },
-  "public_research": [
+  "published_research": [
+    {
+      "title": "Institutional knowledge as training substrate: organization brain for AI agents",
+      "url": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents",
+      "type": "insights"
+    },
+    {
+      "title": "AI infrastructure for financial operations",
+      "url": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
+      "type": "insights"
+    },
     {
       "title": "AI Distribution Agents for TPAs: How the Business Works",
       "url": "https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business",
-      "mirror_md": "docs/research/ai-distribution-agents-tpa-business.md"
+      "type": "insights"
     },
     {
       "title": "Secure Data and System Design for a TPA AI Agent Platform",
       "url": "https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference",
-      "mirror_md": "docs/research/tpa-ai-agent-platform-security-reference.md"
+      "type": "research"
     },
     {
       "title": "Form 5500 Coordination Checklist for Plan Sponsors and Administrators",
       "url": "https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist",
-      "mirror_md": null
+      "type": "insights"
     },
     {
       "title": "Needs Attention Dashboards: What Financial Ops Teams Should Surface First",
       "url": "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops",
-      "mirror_md": null
+      "type": "insights"
+    },
+    {
+      "title": "How Credit Unions Can Replace Spreadsheet Workflows Without a Core Conversion",
+      "url": "https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows",
+      "type": "insights"
+    },
+    {
+      "title": "What TPAs Should Track Before Form 5500 Season Peaks",
+      "url": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
+      "type": "insights"
+    },
+    {
+      "title": "Preparing for NCUA Examinations: Document Readiness and Vendor Diligence for Credit Union Operations",
+      "url": "https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness",
+      "type": "insights"
+    },
+    {
+      "title": "Year-Round TPA Benefits Operations: A Checklist for Smooth Sponsor Handoffs and Coordination",
+      "url": "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
+      "type": "insights"
+    },
+    {
+      "title": "Document Request Tracking for Accounting Firms: A Practical Checklist",
+      "url": "https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Sponsor Benefits Document Accountability: A Practical Governance Checklist",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability",
+      "type": "insights"
+    },
+    {
+      "title": "Recordkeeper Census and Payroll Handoff Checklist for Retirement Plan Operations",
+      "url": "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "type": "insights"
+    },
+    {
+      "title": "Credit Union Supervisory Committee Document Workflow: A Practical Request-and-Evidence Checklist",
+      "url": "https://www.stratedgeworkflow.com/insights/credit-union-supervisory-committee-document-workflow",
+      "type": "insights"
+    },
+    {
+      "title": "TPA Plan Audit Support Document Workflow: A Practical Evidence Checklist",
+      "url": "https://www.stratedgeworkflow.com/insights/tpa-plan-audit-support-document-evidence",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Fiduciary Committee Document Evidence: A Practical Governance Checklist",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-fiduciary-committee-document-evidence",
+      "type": "insights"
+    },
+    {
+      "title": "Benefits Open Enrollment Document Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/benefits-open-enrollment-document-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Distribution and Rollover Document Coordination: A Practical Checklist",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+      "type": "insights"
     }
   ],
-  "public_benchmarks": [
-    { "title": "The StratEdge Credit Union Index", "url": "https://www.stratedgeworkflow.com/credit-union-index" },
-    { "title": "Form 5500 Filing Friction by Plan Size", "url": "https://www.stratedgeworkflow.com/form-5500-filing-friction" },
-    { "title": "The StratEdge Bank Index", "url": "https://www.stratedgeworkflow.com/bank-index" },
-    { "title": "The StratEdge Index", "url": "https://www.stratedgeworkflow.com/stratedge-index" }
-  ],
-  "mirror": {
-    "repository": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery",
-    "last_updated": "2026-09-24",
-    "release_notes": "docs/research/RELEASE-NOTES.md"
-  }
+  "last_updated": "2026-09-24",
+  "publications": [
+    {
+      "title": "Plan Loan Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-loan-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan QDRO Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Hardship Withdrawal Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Termination and Blackout Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-termination-blackout-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Required Minimum Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-rmd-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Corrective Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Missing Participant and Auto-Rollover Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-missing-participant-auto-rollover-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Beneficiary and Death Benefit Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Loan Default and Deemed Distribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-loan-default-deemed-distribution-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Rehire and Re-enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Elective Deferral Change Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Employer Match and Profit-Sharing Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan ADP and ACP Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Top-Heavy Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Safe Harbor Notice Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Automatic Enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Catch-Up Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "Plan Designated Roth Catch-Up Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
+      "url": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
+      "type": "insights"
+    }
+  ]
 }
