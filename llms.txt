@@ -26,9 +26,15 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - Research / benchmarks: https://www.stratedgeworkflow.com/research
 - TPA AI security reference: https://www.stratedgeworkflow.com/research/tpa-ai-agent-platform-security-reference
 - Insights (articles): https://www.stratedgeworkflow.com/insights
+- Organization brain for AI agents (insights): https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents
+- AI infrastructure for financial ops (insights): https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations
 - TPA distribution agents (insights): https://www.stratedgeworkflow.com/insights/ai-distribution-agents-tpa-business
 - Form 5500 coordination checklist (insights): https://www.stratedgeworkflow.com/insights/form-5500-coordination-checklist
 - Needs Attention dashboards (insights): https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops
+- Credit union spreadsheet workflows (insights): https://www.stratedgeworkflow.com/insights/how-credit-unions-replace-spreadsheet-workflows
+- TPA document tracking before Form 5500 (insights): https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500
+- Credit union NCUA examination readiness (insights): https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness
+- TPA year-round benefits operations (insights): https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 
