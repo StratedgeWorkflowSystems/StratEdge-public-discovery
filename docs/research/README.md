@@ -25,6 +25,9 @@ All entries are **public, non-customer** research—no client names, pilot data,
 | What TPAs Should Track Before Form 5500 Season Peaks | https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500 |
 | Preparing for NCUA Examinations: Document Readiness and Vendor Diligence | https://www.stratedgeworkflow.com/insights/credit-union-ncua-examination-document-readiness |
 | Year-Round TPA Benefits Operations Checklist | https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist *(live on site; mirror markdown queue)* |
+| Document Request Tracking for Accounting Firms: A Practical Checklist | https://www.stratedgeworkflow.com/insights/accounting-firm-document-request-tracking |
+| Plan Sponsor Benefits Document Accountability: A Practical Governance Checklist | https://www.stratedgeworkflow.com/insights/plan-sponsor-benefits-document-accountability |
+| Recordkeeper Census and Payroll Handoff Checklist for Retirement Plan Operations | https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist |
 
 ## Markdown mirror (this repo)
 
