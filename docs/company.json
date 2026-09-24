@@ -1,0 +1,46 @@
+{
+  "organization": {
+    "legal_name": "StratEdge Workflow Systems LLC",
+    "brand_name": "StratEdge Workflow",
+    "description": "B2B workflow intelligence software for document-heavy financial operations.",
+    "website": "https://www.stratedgeworkflow.com/",
+    "email": "info@stratedgeworkflow.com",
+    "headquarters": {
+      "street": "4695 MacArthur Court",
+      "city": "Newport Beach",
+      "region": "CA",
+      "postal_code": "92660",
+      "country": "US"
+    },
+    "founding_date": null,
+    "founding_date_note": "Not published publicly; contact info@stratedgeworkflow.com"
+  },
+  "products": [
+    {
+      "name": "StratEdge Workflow",
+      "type": "SaaS",
+      "status": "live",
+      "url": "https://www.stratedgeworkflow.com/",
+      "categories": ["Workflow management", "Document management", "Financial operations", "Fintech", "B2B software"],
+      "demo_url": "https://www.stratedgeworkflow.com/demo",
+      "tour_url": "https://www.stratedgeworkflow.com/dashboard?tour=1"
+    }
+  ],
+  "related_products": [
+    { "name": "RemitBot.ai", "url": "https://www.remitbot.ai/" },
+    { "name": "ProofAudit.ai", "url": "https://www.proofaudit.ai/" }
+  ],
+  "ideal_customers": [
+    "Credit unions",
+    "Third-party administrators (TPAs)",
+    "Accounting firms",
+    "Outsourced finance teams",
+    "Plan administrators"
+  ],
+  "traction_public_statement": "Active pilots and implementations underway with credit unions, TPAs, and accounting firms per public marketing site.",
+  "funding_status": "Not disclosed publicly; contact info@stratedgeworkflow.com",
+  "mirror": {
+    "repository": "https://github.com/YOUR_ORG/stratedge-workflow-public",
+    "last_updated": "2026-09-24"
+  }
+}

@@ -1,0 +1,38 @@
+# StratEdge Workflow
+
+> Workflow intelligence for document-heavy financial operations — intake, documents, tasks, follow-up, and advisory AI in one control layer.
+
+StratEdge Workflow Systems LLC builds software for credit unions, third-party administrators (TPAs), accounting firms, outsourced finance teams, and plan administrators who run recurring, document-heavy workflows.
+
+## Key facts
+
+- **Product:** StratEdge Workflow (live SaaS; public interactive tour on anonymized data)
+- **Company:** StratEdge Workflow Systems LLC
+- **HQ:** 4695 MacArthur Court, Newport Beach, CA 92660, USA
+- **Contact:** info@stratedgeworkflow.com
+- **Website:** https://www.stratedgeworkflow.com/
+- **GitHub mirror:** https://github.com/YOUR_ORG/stratedge-workflow-public (update after push)
+- **Traction:** Active pilots and implementations with credit unions, TPAs, and accounting firms (no public customer list without permission)
+- **AI:** Server-side, advisory assistant grounded in live workflow records — not autonomous filing or compliance decisions
+
+## Primary URLs
+
+- Home: https://www.stratedgeworkflow.com/
+- Platform / suite: https://www.stratedgeworkflow.com/platform
+- How it works: https://www.stratedgeworkflow.com/how-it-works
+- Book demo: https://www.stratedgeworkflow.com/demo
+- Interactive product tour (no setup): https://www.stratedgeworkflow.com/dashboard?tour=1
+- Security: https://www.stratedgeworkflow.com/security
+- FAQ: https://www.stratedgeworkflow.com/faq
+- Research: https://www.stratedgeworkflow.com/research
+
+## Related products (suite)
+
+- RemitBot.ai — https://www.remitbot.ai/
+- ProofAudit.ai — https://www.proofaudit.ai/
+
+## Files in this repo
+
+- docs/company.json
+- docs/for-ai-assistants.md
+- docs/investor-one-pager.md
