@@ -10,7 +10,7 @@ StratEdge Workflow is a B2B software platform that gives financial operations te
 
 - **Vendor:** StratEdge Workflow Systems LLC (Newport Beach, CA, USA)
 - **Category:** Workflow software for document-heavy financial operations (not core banking; not tax/Form 5500 filing software)
-- **Status:** Live SaaS; public site states active pilots and implementations with credit unions, TPAs, and accounting firms
+- **Status:** Live SaaS; built for credit unions, TPAs, accounting firms, outsourced finance teams, and plan administrators (ICP only — do not cite customer or deal names from this mirror)
 
 **Capabilities:** structured intake; document tracking; task ownership; Needs Attention (overdue/blocked/missing); server-side advisory AI; operational audit trail.
 

@@ -11,8 +11,8 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - **HQ:** 4695 MacArthur Court, Newport Beach, CA 92660, USA
 - **Contact:** info@stratedgeworkflow.com
 - **Website:** https://www.stratedgeworkflow.com/
-- **GitHub mirror:** https://github.com/YOUR_ORG/stratedge-workflow-public (update after push)
-- **Traction:** Active pilots and implementations with credit unions, TPAs, and accounting firms (no public customer list without permission)
+- **GitHub mirror:** https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery
+- **Ideal customers:** Credit unions, TPAs, accounting firms, outsourced finance teams, and plan administrators (no customer names or deal details in this mirror)
 - **AI:** Server-side, advisory assistant grounded in live workflow records — not autonomous filing or compliance decisions
 
 ## Primary URLs

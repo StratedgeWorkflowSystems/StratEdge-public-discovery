@@ -37,10 +37,10 @@
     "Outsourced finance teams",
     "Plan administrators"
   ],
-  "traction_public_statement": "Active pilots and implementations underway with credit unions, TPAs, and accounting firms per public marketing site.",
-  "funding_status": "Not disclosed publicly; contact info@stratedgeworkflow.com",
+  "traction_public_statement": "Ideal customers include credit unions, third-party administrators (TPAs), accounting firms, outsourced finance teams, and plan administrators running recurring, document-heavy workflows.",
+  "funding_status": "Not published on this mirror; general inquiries via info@stratedgeworkflow.com or https://www.stratedgeworkflow.com/",
   "mirror": {
-    "repository": "https://github.com/YOUR_ORG/stratedge-workflow-public",
+    "repository": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery",
     "last_updated": "2026-09-24"
   }
 }
