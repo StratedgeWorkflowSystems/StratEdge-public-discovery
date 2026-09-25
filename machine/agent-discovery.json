@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T04:46:36Z",
+  "last_updated": "2026-09-25T05:08:30Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -228,7 +228,7 @@
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/organization-brain-for-ai-agents.faq.json"
       },
       {
-        "title": "AI infrastructure for financial operations \u2014 not another chatbot",
+        "title": "AI infrastructure for financial operations — not another chatbot",
         "url": "https://www.stratedgeworkflow.com/insights/ai-infrastructure-for-financial-operations",
         "type": "insights",
         "notes": "Workflow control layer for intake, evidence, routing, and audit.",
@@ -272,7 +272,7 @@
         "title": "What TPAs Should Track Before Form 5500 Season Peaks",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500",
         "type": "insights",
-        "notes": "TPA document tracking timeline; coordination only\u2014not ERISA or filing advice.",
+        "notes": "TPA document tracking timeline; coordination only—not ERISA or filing advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-document-tracking-before-form-5500.faq.json"
       },
       {
@@ -412,70 +412,70 @@
         "title": "Plan Rehire and Re-enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination",
         "type": "insights",
-        "notes": "Rehire eligibility, enrollment elections, and payroll restart evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "Rehire eligibility, enrollment elections, and payroll restart evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-rehire-re-enrollment-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Elective Deferral Change Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination",
         "type": "insights",
-        "notes": "Deferral election changes, payroll effective dates, and confirmation evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Deferral election changes, payroll effective dates, and confirmation evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-elective-deferral-change-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Employer Match and Profit-Sharing Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination",
         "type": "insights",
-        "notes": "Employer match, true-up, and profit-sharing allocation evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Employer match, true-up, and profit-sharing allocation evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-employer-match-profit-sharing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan ADP and ACP Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination",
         "type": "insights",
-        "notes": "ADP/ACP census, HCE classification, and correction evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "ADP/ACP census, HCE classification, and correction evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-adp-acp-testing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Top-Heavy Testing Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination",
         "type": "insights",
-        "notes": "Top-heavy determination, key employee balances, and minimum contribution evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Top-heavy determination, key employee balances, and minimum contribution evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-top-heavy-testing-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Safe Harbor Notice Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination",
         "type": "insights",
-        "notes": "Safe harbor notice timing, delivery evidence, and plan-year alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Safe harbor notice timing, delivery evidence, and plan-year alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-safe-harbor-notice-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Automatic Enrollment Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination",
         "type": "insights",
-        "notes": "Automatic enrollment notice timing, opt-out evidence, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Automatic enrollment notice timing, opt-out evidence, and payroll alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-automatic-enrollment-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Catch-Up Contribution Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination",
         "type": "insights",
-        "notes": "Catch-up eligibility, deferral elections, and payroll alignment; coordination only\u2014not ERISA or tax advice.",
+        "notes": "Catch-up eligibility, deferral elections, and payroll alignment; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-catch-up-contribution-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Designated Roth Catch-Up Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination",
         "type": "insights",
-        "notes": "SECURE 2.0 designated Roth catch-up eligibility, payroll coding, and evidence; coordination only\u2014not ERISA or tax advice.",
+        "notes": "SECURE 2.0 designated Roth catch-up eligibility, payroll coding, and evidence; coordination only—not ERISA or tax advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-designated-roth-catch-up-documentation-coordination.faq.json"
       },
       {
         "title": "Plan E-Signature and Consent Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination",
         "type": "insights",
-        "notes": "Participant e-signature consent and election audit trails; coordination only\u2014not ERISA or legal advice.",
+        "notes": "Participant e-signature consent and election audit trails; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-esignature-consent-documentation-coordination.faq.json"
       },
       {
@@ -489,42 +489,42 @@
         "title": "Plan Summary Plan Description (SPD) Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination",
         "type": "insights",
-        "notes": "SPD/SMM distribution, version control, and participant acknowledgment evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "SPD/SMM distribution, version control, and participant acknowledgment evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-summary-plan-description-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Summary Annual Report (SAR) Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
         "type": "insights",
-        "notes": "Summary annual report preparation, distribution, and participant notice evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "Summary annual report preparation, distribution, and participant notice evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination.faq.json"
       },
       {
         "title": "Plan Participant Quarterly Statement Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
         "url": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
         "type": "insights",
-        "notes": "Quarterly participant statement delivery, bounce handling, and reconciliation evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "Quarterly participant statement delivery, bounce handling, and reconciliation evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Contribution Remittance and Trust Deposit Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
         "type": "insights",
-        "notes": "TPA payroll remittance, trust deposit confirmation, and reconciliation evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA payroll remittance, trust deposit confirmation, and reconciliation evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Late Contribution Deposit and Timing Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination",
         "type": "insights",
-        "notes": "TPA late deposit discovery, timing evidence, and correction handoffs; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA late deposit discovery, timing evidence, and correction handoffs; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-late-contribution-deposit-timing-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Contribution Deposit Reconciliation and Variance Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
         "type": "insights",
-        "notes": "TPA payroll-to-trust deposit reconciliation, variance investigation, and resolution handoffs; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA payroll-to-trust deposit reconciliation, variance investigation, and resolution handoffs; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination.faq.json"
       },
       {
@@ -538,246 +538,253 @@
         "title": "TPA Rejected ACH and Contribution Deposit Return Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-rejected-ach-contribution-deposit-return-documentation-coordination",
         "type": "insights",
-        "notes": "TPA rejected ACH, deposit returns, and reversal evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA rejected ACH, deposit returns, and reversal evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-rejected-ach-contribution-deposit-return-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Makeup Contribution and Re-Deposit After Rejected ACH Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-makeup-contribution-redeposit-after-rejected-ach-documentation-coordination",
         "type": "insights",
-        "notes": "TPA makeup contribution and re-deposit after rejected ACH; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA makeup contribution and re-deposit after rejected ACH; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-makeup-contribution-redeposit-after-rejected-ach-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Wire Replacement ACH Contribution Deposit Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination",
         "type": "insights",
-        "notes": "TPA wire replacement for ACH contribution deposits; banking change evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA wire replacement for ACH contribution deposits; banking change evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Duplicate Contribution Deposit Funding Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination",
         "type": "insights",
-        "notes": "TPA duplicate contribution deposit funding, ACH retry vs wire overlap, and reversal evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA duplicate contribution deposit funding, ACH retry vs wire overlap, and reversal evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Contribution Deposit Reversal and Excess Funding Refund Documentation Coordination: A Practical Checklist",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
         "type": "insights",
-        "notes": "TPA contribution deposit reversal, excess funding refund, and ACH recall evidence; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA contribution deposit reversal, excess funding refund, and ACH recall evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Contribution Deposit Operations Chain Milestone Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
         "type": "insights",
-        "notes": "TPA contribution deposit operations chain milestone\u2014remittance through reversal bundle indexing; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA contribution deposit operations chain milestone—remittance through reversal bundle indexing; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
         "type": "insights",
-        "notes": "TPA participant distribution and withdrawal operations thread opening\u2014intake through settlement evidence indexing; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA participant distribution and withdrawal operations thread opening—intake through settlement evidence indexing; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Settlement Exception Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread settlement exceptions\u2014returns, trace gaps, reissue, and partial rollover evidence on one thread id; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread settlement exceptions—returns, trace gaps, reissue, and partial rollover evidence on one thread id; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Tax Reporting Correction Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-tax-reporting-correction-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread tax reporting corrections\u20141099-R alignment after settlement exceptions on one thread id; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread tax reporting corrections—1099-R alignment after settlement exceptions on one thread id; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-tax-reporting-correction-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Milestone Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-milestone-documentation-coordination",
         "type": "insights",
-        "notes": "TPA participant distribution withdrawal operations thread milestone\u2014intake through tax correction bundle indexing; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA participant distribution withdrawal operations thread milestone—intake through tax correction bundle indexing; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-milestone-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Sponsor Examination Export Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-sponsor-examination-export-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread sponsor examination export\u2014milestone bundle handoff for audits; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread sponsor examination export—milestone bundle handoff for audits; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-sponsor-examination-export-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Regulatory Inquiry Response Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread regulatory inquiry response\u2014counsel-approved packages indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread regulatory inquiry response—counsel-approved packages indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Inquiry Closeout and Retention Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-inquiry closeout and retention\u2014immutable closeout manifests on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-inquiry closeout and retention—immutable closeout manifests on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Periodic Retention Attestation and Disposition Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread periodic retention attestation and disposition\u2014indexed manifests on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread periodic retention attestation and disposition—indexed manifests on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Legal Hold Release and Offboarding Archival Transfer Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-legal-hold-release-offboarding-archival-transfer-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread legal hold release and offboarding archival transfer\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread legal hold release and offboarding archival transfer—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-legal-hold-release-offboarding-archival-transfer-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Transfer Integrity Verification and Litigation Re-Open Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-transfer integrity verification and litigation re-open\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-transfer integrity verification and litigation re-open—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Reopen Regulatory Examination Follow-Up Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-reopen-regulatory-examination-follow-up-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-reopen regulatory examination follow-up\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-reopen regulatory examination follow-up—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-reopen-regulatory-examination-follow-up-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Examination Remediation Closeout and Agency Sign-Off Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-examination-remediation-closeout-agency-sign-off-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-examination remediation closeout and agency sign-off\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-examination remediation closeout and agency sign-off—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-examination-remediation-closeout-agency-sign-off-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Sign-Off Ongoing Consent-Order Monitoring and Periodic Compliance Attestation Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-sign-off-ongoing-consent-order-monitoring-periodic-compliance-attestation-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-sign-off ongoing consent-order monitoring and periodic compliance attestation\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-sign-off ongoing consent-order monitoring and periodic compliance attestation—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-sign-off-ongoing-consent-order-monitoring-periodic-compliance-attestation-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Monitoring Consent-Order Lift Termination and Final Release Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-consent-order-lift-termination-final-release-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-monitoring consent-order lift termination and final release\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-monitoring consent-order lift termination and final release—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-consent-order-lift-termination-final-release-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Final-Release Retention Sunset and Thread Archival Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-final-release-retention-sunset-thread-archival-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-final-release retention sunset and thread archival\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-final-release retention sunset and thread archival—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-final-release-retention-sunset-thread-archival-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Archival Destruction Certificate and Thread Retirement Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-archival-destruction-certificate-and-thread-retirement-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-archival destruction certificate and thread retirement\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-archival destruction certificate and thread retirement—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-archival-destruction-certificate-and-thread-retirement-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Thread-Retirement Regulatory Closure Notification and Successor Handoff Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-thread-retirement-regulatory-closure-notification-and-successor-handoff-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-thread-retirement regulatory closure and successor handoff\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-thread-retirement regulatory closure and successor handoff—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-thread-retirement-regulatory-closure-notification-and-successor-handoff-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Successor-Handoff Operational Acceptance and Steady-State Attestation Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-successor-handoff-operational-acceptance-and-steady-state-attestation-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-successor-handoff operational acceptance and steady-state attestation\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-successor-handoff operational acceptance and steady-state attestation—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-successor-handoff-operational-acceptance-and-steady-state-attestation-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Steady-State Operational Exception and Incident Response Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-operational-exception-and-incident-response-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-steady-state operational exception and incident response\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-steady-state operational exception and incident response—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-operational-exception-and-incident-response-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Incident Remediation Closeout and Corrective Action Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-incident-remediation-closeout-and-corrective-action-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-incident remediation closeout and corrective action\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-incident remediation closeout and corrective action—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-incident-remediation-closeout-and-corrective-action-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Corrective-Action Steady-State Revalidation and Operational Attestation Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-corrective-action-steady-state-revalidation-and-operational-attestation-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-corrective-action steady-state revalidation and operational attestation\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-corrective-action steady-state revalidation and operational attestation—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-corrective-action-steady-state-revalidation-and-operational-attestation-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Revalidation Ongoing Monitoring and Control-Effectiveness Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-revalidation-ongoing-monitoring-and-control-effectiveness-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-revalidation ongoing monitoring and control-effectiveness\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-revalidation ongoing monitoring and control-effectiveness—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-revalidation-ongoing-monitoring-and-control-effectiveness-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Monitoring Surveillance Closeout and Steady-State Resume Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-surveillance-closeout-and-steady-state-resume-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-monitoring surveillance closeout and steady-state resume\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-monitoring surveillance closeout and steady-state resume—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-surveillance-closeout-and-steady-state-resume-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Monitoring Ongoing Monitoring and Control-Effectiveness Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-ongoing-monitoring-and-control-effectiveness-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-monitoring ongoing monitoring and control-effectiveness\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-monitoring ongoing monitoring and control-effectiveness—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-ongoing-monitoring-and-control-effectiveness-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Monitoring Examination Readiness and Regulatory Inquiry Response Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-examination-readiness-and-regulatory-inquiry-response-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-monitoring examination readiness and regulatory inquiry response\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-monitoring examination readiness and regulatory inquiry response—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-examination-readiness-and-regulatory-inquiry-response-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Monitoring Regulatory Inquiry Closeout and Retention Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-regulatory-inquiry-closeout-and-retention-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-monitoring regulatory inquiry closeout and retention\u2014indexed on parent thread; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-monitoring regulatory inquiry closeout and retention—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-regulatory-inquiry-closeout-and-retention-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Integrity Review Regulatory Inquiry Monitoring Handoff Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-integrity-review-regulatory-inquiry-monitoring-handoff-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-integrity-review inquiry monitoring handoff\u2014distinct from Wave #61 reopen; coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-integrity-review inquiry monitoring handoff—distinct from Wave #61 reopen; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-integrity-review-regulatory-inquiry-monitoring-handoff-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Handoff Steady-State Resume Operational Recertification and Retention Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-handoff-steady-state-resume-operational-recertification-and-retention-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-handoff steady-state operational recertification and retention\u2014coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-handoff steady-state operational recertification and retention—coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-handoff-steady-state-resume-operational-recertification-and-retention-documentation-coordination.faq.json"
       },
       {
         "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Retention Regulatory Archive Disposition and Litigation-Hold Release Documentation Coordination: A Practical Playbook",
         "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retention-regulatory-archive-disposition-and-litigation-hold-release-documentation-coordination",
         "type": "insights",
-        "notes": "TPA distribution thread post-retention archive disposition and litigation-hold release\u2014coordination only\u2014not ERISA or legal advice.",
+        "notes": "TPA distribution thread post-retention archive disposition and litigation-hold release—coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retention-regulatory-archive-disposition-and-litigation-hold-release-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Disposition Regulatory Closure Certification and Thread Retirement Readiness Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-disposition-regulatory-closure-certification-and-thread-retirement-readiness-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-disposition regulatory closure certification and thread retirement readiness—coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-disposition-regulatory-closure-certification-and-thread-retirement-readiness-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
