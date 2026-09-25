@@ -1,0 +1,18 @@
+{
+  "repository": "StratedgeWorkflowSystems/StratEdge-public-discovery",
+  "homepage": "https://www.stratedgeworkflow.com/",
+  "description": "Public AI & investor discovery mirror for StratEdge Workflow — llms.txt, llms-full.txt, agent-discovery.json, 76-article insights catalog (https://www.stratedgeworkflow.com/)",
+  "topics": [
+    "agent-discovery",
+    "b2b",
+    "credit-union",
+    "document-management",
+    "financial-services",
+    "fintech",
+    "llms-txt",
+    "research",
+    "saas",
+    "tpa",
+    "workflow"
+  ]
+}

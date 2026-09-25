@@ -1,1 +1,4 @@
 .DS_Store
+CHANGELOG.prev.md
+*.prev.md
+.git/index.lock

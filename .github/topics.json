@@ -1,0 +1,21 @@
+{
+  "repository": "StratedgeWorkflowSystems/StratEdge-public-discovery",
+  "names": [
+    "agent-discovery",
+    "b2b",
+    "benefits-administration",
+    "compliance",
+    "credit-union",
+    "document-management",
+    "financial-services",
+    "fintech",
+    "form-5500",
+    "llms-txt",
+    "research",
+    "retirement-plans",
+    "saas",
+    "tpa",
+    "workflow"
+  ],
+  "apply_command": "gh api -X PUT repos/StratedgeWorkflowSystems/StratEdge-public-discovery/topics -H \"Accept: application/vnd.github.mercy-preview+json\" -f names='[\"agent-discovery\",\"b2b\",\"benefits-administration\",\"compliance\",\"credit-union\",\"document-management\",\"financial-services\",\"fintech\",\"form-5500\",\"llms-txt\",\"research\",\"retirement-plans\",\"saas\",\"tpa\",\"workflow\"]'"
+}

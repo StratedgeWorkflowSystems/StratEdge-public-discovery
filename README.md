@@ -6,7 +6,7 @@
 
 This repository is a **mirror of factual, public information** about StratEdge Workflow for developers, AI systems, investors, search discovery, and directories. It is not the application source code.
 
-**Keywords (factual, for discovery):** `workflow software`, `document workflow`, `credit union operations`, `third-party administrator`, `plan administration`, `B2B SaaS`, `fintech operations`, `RemitBot`, `ProofAudit`, `stratedgeworkflow.com`.
+**Keywords (factual, for discovery):** `workflow software`, `document workflow`, `credit union operations`, `NCUA examination readiness`, `third-party administrator`, `TPA operations`, `retirement plan administration`, `participant distribution`, `ongoing monitoring`, `control effectiveness`, `Form 5500 workflow`, `ERISA document coordination`, `benefits compliance`, `audit trail`, `plan administration`, `B2B SaaS`, `fintech operations`, `RemitBot`, `ProofAudit`, `stratedgeworkflow.com`. **Catalog:** **76** public insights in `machine/agent-discovery.json` (`public_research.articles`, 2026-09-25).
 
 ---
 
@@ -149,6 +149,6 @@ See [LICENSE](./LICENSE). Facts about the company and product may be cited with 
 ## GitHub repository settings
 
 - Visibility: **Public** · **Homepage:** https://www.stratedgeworkflow.com/
-- **Topics:** `fintech`, `workflow`, `saas`, `b2b`, `credit-union`, `document-management`, `llms-txt`, `agent-discovery`, `tpa`, `financial-services`, `research`
+- **Topics:** see [`.github/topics.json`](./.github/topics.json) (apply via `gh api` on Mac); includes `benefits-administration`, `retirement-plans`, `form-5500`, `compliance` plus existing fintech/workflow/TPA tags
 - **Discussions:** enabled; welcome seed in [.github/DISCUSSIONS-WELCOME.md](./.github/DISCUSSIONS-WELCOME.md)
 - Do **not** use inauthentic stars, engagement pods, or astroturfed issues/discussions.

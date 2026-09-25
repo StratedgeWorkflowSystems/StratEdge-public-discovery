@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T04:09:34Z",
+  "last_updated": "2026-09-25T04:39:49Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -757,6 +757,34 @@
         "type": "insights",
         "notes": "TPA distribution thread post-monitoring regulatory inquiry closeout and retention—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-regulatory-inquiry-closeout-and-retention-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Steady-State Resume Periodic Integrity Review and Operational Recertification Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-resume-periodic-integrity-review-and-operational-recertification-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread periodic integrity review—Mac queue #76; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-resume-periodic-integrity-review-and-operational-recertification-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Integrity Review Regulatory Inquiry Monitoring Handoff Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-integrity-review-regulatory-inquiry-monitoring-handoff-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-integrity-review inquiry monitoring handoff—distinct from Wave #61 reopen; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-integrity-review-regulatory-inquiry-monitoring-handoff-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Handoff Steady-State Resume Operational Recertification and Retention Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-handoff-steady-state-resume-operational-recertification-and-retention-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-handoff steady-state operational recertification and retention—coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-handoff-steady-state-resume-operational-recertification-and-retention-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Retention Regulatory Archive Disposition and Litigation-Hold Release Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retention-regulatory-archive-disposition-and-litigation-hold-release-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-retention archive disposition and litigation-hold release—coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retention-regulatory-archive-disposition-and-litigation-hold-release-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
