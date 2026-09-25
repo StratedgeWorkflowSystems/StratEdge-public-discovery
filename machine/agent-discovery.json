@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T01:57:00Z",
+  "last_updated": "2026-09-25T02:04:16Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -172,7 +172,9 @@
     "insights_tpa_participant_distribution_withdrawal_operations_thread_legal_hold_release_offboarding_archival_transfer_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-legal-hold-release-offboarding-archival-transfer-documentation-coordination",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_legal_hold_release_offboarding_archival_transfer_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-legal-hold-release-offboarding-archival-transfer-documentation-coordination.faq.json",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_periodic_retention_attestation_disposition_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination",
-    "insights_tpa_participant_distribution_withdrawal_operations_thread_periodic_retention_attestation_disposition_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination.faq.json"
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_periodic_retention_attestation_disposition_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination.faq.json",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_transfer_integrity_verification_litigation_reopen_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_transfer_integrity_verification_litigation_reopen_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -622,6 +624,13 @@
         "type": "insights",
         "notes": "TPA distribution thread legal hold release and offboarding archival transfer—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-legal-hold-release-offboarding-archival-transfer-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Transfer Integrity Verification and Litigation Re-Open Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-transfer integrity verification and litigation re-open—indexed on parent thread; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -1246,6 +1255,14 @@
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-sponsor-examination-export-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-milestone-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_participant_distribution_withdrawal_operations_thread_post_transfer_integrity_verification_litigation_reopen": [
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-legal-hold-release-offboarding-archival-transfer-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
