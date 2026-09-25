@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T07:03:27Z",
+  "last_updated": "2026-09-25T07:08:55Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -862,6 +862,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-retirement archival seal attestation acceptance and closure certificate—coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-archival-seal-attestation-acceptance-regulatory-verification-and-thread-retirement-closure-certificate-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Retirement Closure Certificate Acceptance Regulatory Verification and Thread Retirement Completion Attestation Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-closure-certificate-acceptance-regulatory-verification-and-thread-retirement-completion-attestation-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-retirement closure certificate acceptance and completion attestation—coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-closure-certificate-acceptance-regulatory-verification-and-thread-retirement-completion-attestation-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
