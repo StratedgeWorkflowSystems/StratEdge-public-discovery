@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T02:57:34Z",
+  "last_updated": "2026-09-25T03:06:50Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -690,6 +690,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-thread-retirement regulatory closure and successor handoff—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-thread-retirement-regulatory-closure-notification-and-successor-handoff-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Successor-Handoff Operational Acceptance and Steady-State Attestation Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-successor-handoff-operational-acceptance-and-steady-state-attestation-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-successor-handoff operational acceptance and steady-state attestation—indexed on parent thread; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-successor-handoff-operational-acceptance-and-steady-state-attestation-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
