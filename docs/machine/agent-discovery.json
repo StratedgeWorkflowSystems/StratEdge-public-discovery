@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T01:20:22Z",
+  "last_updated": "2026-09-25T01:33:05Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -164,7 +164,9 @@
     "insights_tpa_participant_distribution_withdrawal_operations_thread_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination.faq.json",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_settlement_exception_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination",
-    "insights_tpa_participant_distribution_withdrawal_operations_thread_settlement_exception_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination.faq.json"
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_settlement_exception_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination.faq.json",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_regulatory_inquiry_response_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_regulatory_inquiry_response_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -586,6 +588,13 @@
         "type": "insights",
         "notes": "TPA distribution thread sponsor examination export—milestone bundle handoff for audits; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-sponsor-examination-export-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Regulatory Inquiry Response Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread regulatory inquiry response—counsel-approved packages indexed on parent thread; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
