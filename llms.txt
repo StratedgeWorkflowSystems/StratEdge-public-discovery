@@ -75,6 +75,7 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - TPA wire replacement ACH contribution deposit documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination
 - TPA duplicate contribution deposit funding documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination
 - TPA contribution deposit reversal excess refund documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination
+- TPA contribution deposit operations chain milestone documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 

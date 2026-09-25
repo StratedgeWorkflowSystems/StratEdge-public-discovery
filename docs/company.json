@@ -164,7 +164,7 @@
       "type": "insights"
     }
   ],
-  "last_updated": "2026-09-24",
+  "last_updated": "2026-09-25",
   "publications": [
     {
       "title": "Plan Loan Documentation Coordination: A Practical Checklist for Sponsors and TPAs",
@@ -324,6 +324,11 @@
     {
       "title": "TPA Contribution Deposit Reversal and Excess Funding Refund Documentation Coordination: A Practical Checklist",
       "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
+      "type": "insights"
+    },
+    {
+      "title": "TPA Contribution Deposit Operations Chain Milestone Documentation Coordination: A Practical Playbook",
+      "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
       "type": "insights"
     }
   ]
