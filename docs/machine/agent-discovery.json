@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T01:33:05Z",
+  "last_updated": "2026-09-25T01:43:35Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -166,7 +166,9 @@
     "insights_tpa_participant_distribution_withdrawal_operations_thread_settlement_exception_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_settlement_exception_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination.faq.json",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_regulatory_inquiry_response_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination",
-    "insights_tpa_participant_distribution_withdrawal_operations_thread_regulatory_inquiry_response_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination.faq.json"
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_regulatory_inquiry_response_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination.faq.json",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_inquiry_closeout_retention_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_inquiry_closeout_retention_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -595,6 +597,13 @@
         "type": "insights",
         "notes": "TPA distribution thread regulatory inquiry response—counsel-approved packages indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Inquiry Closeout and Retention Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-inquiry closeout and retention—immutable closeout manifests on parent thread; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -1204,6 +1213,22 @@
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_participant_distribution_withdrawal_operations_thread_regulatory_inquiry_response": [
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-sponsor-examination-export-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-milestone-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_participant_distribution_withdrawal_operations_thread_post_inquiry_closeout_retention": [
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-regulatory-inquiry-response-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-sponsor-examination-export-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-milestone-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
   }
