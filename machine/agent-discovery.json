@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T03:06:50Z",
+  "last_updated": "2026-09-25T03:13:59Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -184,7 +184,9 @@
     "insights_tpa_participant_distribution_withdrawal_operations_thread_post_monitoring_consent_order_lift_termination_final_release_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-consent-order-lift-termination-final-release-documentation-coordination",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_post_monitoring_consent_order_lift_termination_final_release_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-consent-order-lift-termination-final-release-documentation-coordination.faq.json",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_post_final_release_retention_sunset_thread_archival_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-final-release-retention-sunset-thread-archival-documentation-coordination",
-    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_final_release_retention_sunset_thread_archival_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-final-release-retention-sunset-thread-archival-documentation-coordination.faq.json"
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_final_release_retention_sunset_thread_archival_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-final-release-retention-sunset-thread-archival-documentation-coordination.faq.json",
+    "insights_tpa_distribution_thread_post_steady_state_operational_exception": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-operational-exception-and-incident-response-documentation-coordination",
+    "insights_tpa_distribution_thread_post_steady_state_operational_exception_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-operational-exception-and-incident-response-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -697,6 +699,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-successor-handoff operational acceptance and steady-state attestation—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-successor-handoff-operational-acceptance-and-steady-state-attestation-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Steady-State Operational Exception and Incident Response Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-operational-exception-and-incident-response-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-steady-state operational exception and incident response—indexed on parent thread; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-steady-state-operational-exception-and-incident-response-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
