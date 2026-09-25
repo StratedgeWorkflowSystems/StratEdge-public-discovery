@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T02:11:22Z",
+  "last_updated": "2026-09-25T02:20:38Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -176,7 +176,9 @@
     "insights_tpa_participant_distribution_withdrawal_operations_thread_post_transfer_integrity_verification_litigation_reopen_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_post_transfer_integrity_verification_litigation_reopen_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-transfer-integrity-verification-litigation-reopen-documentation-coordination.faq.json",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_post_reopen_regulatory_examination_follow_up_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-reopen-regulatory-examination-follow-up-documentation-coordination",
-    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_reopen_regulatory_examination_follow_up_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-reopen-regulatory-examination-follow-up-documentation-coordination.faq.json"
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_reopen_regulatory_examination_follow_up_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-reopen-regulatory-examination-follow-up-documentation-coordination.faq.json",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_examination_remediation_closeout_agency_sign_off_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-examination-remediation-closeout-agency-sign-off-documentation-coordination",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_post_examination_remediation_closeout_agency_sign_off_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-examination-remediation-closeout-agency-sign-off-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -640,6 +642,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-reopen regulatory examination follow-up—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-reopen-regulatory-examination-follow-up-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Examination Remediation Closeout and Agency Sign-Off Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-examination-remediation-closeout-agency-sign-off-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-examination remediation closeout and agency sign-off—indexed on parent thread; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-examination-remediation-closeout-agency-sign-off-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
