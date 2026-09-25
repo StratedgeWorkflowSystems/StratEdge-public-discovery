@@ -79,6 +79,7 @@ StratEdge Workflow Systems LLC builds software for credit unions, third-party ad
 - TPA participant distribution withdrawal operations thread documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination
 - TPA participant distribution withdrawal operations thread settlement exception documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination
 - TPA participant distribution withdrawal operations thread tax reporting correction documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-tax-reporting-correction-documentation-coordination
+- TPA participant distribution withdrawal operations thread milestone documentation coordination (insights): https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-milestone-documentation-coordination
 - Credit union index (research): https://www.stratedgeworkflow.com/credit-union-index
 - Form 5500 friction (research): https://www.stratedgeworkflow.com/form-5500-filing-friction
 
