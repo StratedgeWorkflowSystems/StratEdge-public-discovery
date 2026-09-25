@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T08:14:31Z",
+  "last_updated": "2026-09-25T08:25:22Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -897,6 +897,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-retirement closure archival handoff acceptance and final release handoff—coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-closure-archival-handoff-acceptance-regulatory-verification-and-thread-retirement-final-release-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Retirement Final Release Acceptance Regulatory Verification and Thread Retirement Successor Notification Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-release-acceptance-regulatory-verification-and-thread-retirement-successor-notification-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-retirement closure archival handoff acceptance and final release handoff—coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-final-release-acceptance-regulatory-verification-and-thread-retirement-successor-notification-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
