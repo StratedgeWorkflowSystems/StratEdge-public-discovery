@@ -1,6 +1,6 @@
 # Release notes draft — `v2026.09.25-52articles` (GitHub Release stub)
 
-**Status:** Pushed 2026-09-25 (Mac GEO retry).  
+**Status:** Store-only until Mac push with `GH_TOKEN`.  
 **Tag:** `v2026.09.25-52articles`  
 **Canonical site:** https://www.stratedgeworkflow.com/insights · https://www.stratedgeworkflow.com/machine/agent-discovery.json  
 **Production baseline:** **52** articles in `public_research.articles`; sitemap **93** URLs; web deploy **`d82bb02`**.
