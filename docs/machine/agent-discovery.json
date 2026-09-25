@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T00:52:29Z",
+  "last_updated": "2026-09-25T01:00:32Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -160,7 +160,9 @@
     "insights_tpa_contribution_deposit_reversal_excess_refund": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
     "insights_tpa_contribution_deposit_reversal_excess_refund_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination.faq.json",
     "insights_tpa_contribution_deposit_operations_chain_milestone_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
-    "insights_tpa_contribution_deposit_operations_chain_milestone_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination.faq.json"
+    "insights_tpa_contribution_deposit_operations_chain_milestone_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination.faq.json",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -547,6 +549,13 @@
         "type": "insights",
         "notes": "TPA contribution deposit operations chain milestone—remittance through reversal bundle indexing; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA participant distribution and withdrawal operations thread opening—intake through settlement evidence indexing; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -1103,6 +1112,7 @@
     ],
     "tpa_contribution_deposit_operations_chain_milestone": [
       "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-contribution-remittance-trust-deposit-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination",
@@ -1110,6 +1120,16 @@
       "https://www.stratedgeworkflow.com/insights/tpa-rejected-ach-contribution-deposit-return-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_participant_distribution_withdrawal_operations_thread": [
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-qdro-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/plan-beneficiary-death-benefit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-year-round-benefits-operations-checklist",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
   }
