@@ -1,24 +1,18 @@
-## [v2026.09.25-80articles-discovery-reconcile] - 2026-09-25
+## [v2026.09.25-85articles] - 2026-09-25
 
-### Fixed
-- Dropped stale catalog row for never-deployed `…post-steady-state-resume-periodic-integrity-review…` (404); campaign **#77** rewrite remains at live **integrity-handoff** slug. `verify_prod_band` **#18–#79** → **124/124**.
-- Production baseline: **80** `public_research.articles` (79 insight URLs + 1 research), discovery SHA **`74aceb60`**, site deploy **`8f280b1`**.
-
-### Changed
-- Byte-sync: `machine/agent-discovery.json`, `docs/machine/agent-discovery.json`.
-
-## [v2026.09.25-81articles] - 2026-09-25
+### Added
+- Release notes for **85-insight live band** (#18–#85) (`docs/research/RELEASE-NOTES-v2026.09.25-85articles.md`).
+- Mac script `scripts/mac-push-visibility-release-85articles-2026-09-25.sh`.
 
 ### Changed
-- Production baseline: **81** `public_research.articles`, discovery SHA **`d7393778`**, site deploy **`fb613ab`** (insights **#77–#79** / cycle-79 A2A).
-- Byte-sync from production: `machine/agent-discovery.json`, `llms-full.txt` (**40260** B), `llms.txt`, `docs/company.json`.
-
-### Fixed
-- Removed corrupt local `CHANGELOG.md` growth (~58GB) before push; changelog rebuilt from Context pack + this entry (no self-append merge).
+- Production baseline: **86** `public_research.articles` rows; sitemap **130**; discovery SHA **`7315fda1`**; insights **#18–#85** **136/136** verify (2026-09-25T06:00Z).
+- Context `llms-full.txt`: portfolio-closure agent-routing row (Mac rsync to prod).
 
 ### Security / ethics
-- No customer PII, revenue figures, or astroturf engagement.
+- No customer PII, revenue figures, or review scores in mirror text.
 
+### Sync
+- Byte-match production discovery bundle on push (`GH_TOKEN` / Mac).
 
 ## [v2026.09.25-76articles] - 2026-09-25
 
