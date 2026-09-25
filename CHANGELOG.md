@@ -1,3 +1,12 @@
+## [v2026.09.25-80articles-discovery-reconcile] - 2026-09-25
+
+### Fixed
+- Dropped stale catalog row for never-deployed `…post-steady-state-resume-periodic-integrity-review…` (404); campaign **#77** rewrite remains at live **integrity-handoff** slug. `verify_prod_band` **#18–#79** → **124/124**.
+- Production baseline: **80** `public_research.articles` (79 insight URLs + 1 research), discovery SHA **`74aceb60`**, site deploy **`8f280b1`**.
+
+### Changed
+- Byte-sync: `machine/agent-discovery.json`, `docs/machine/agent-discovery.json`.
+
 ## [v2026.09.25-81articles] - 2026-09-25
 
 ### Changed
