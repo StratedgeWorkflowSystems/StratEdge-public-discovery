@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T01:00:32Z",
+  "last_updated": "2026-09-25T01:05:42Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -162,7 +162,9 @@
     "insights_tpa_contribution_deposit_operations_chain_milestone_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
     "insights_tpa_contribution_deposit_operations_chain_milestone_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination.faq.json",
     "insights_tpa_participant_distribution_withdrawal_operations_thread_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
-    "insights_tpa_participant_distribution_withdrawal_operations_thread_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination.faq.json"
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination.faq.json",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_settlement_exception_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination",
+    "insights_tpa_participant_distribution_withdrawal_operations_thread_settlement_exception_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -556,6 +558,13 @@
         "type": "insights",
         "notes": "TPA participant distribution and withdrawal operations thread opening—intake through settlement evidence indexing; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Settlement Exception Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread settlement exceptions—returns, trace gaps, reissue, and partial rollover evidence on one thread id; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -583,6 +592,17 @@
         "https://www.stratedgeworkflow.com/insights/plan-participant-quarterly-statement-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-summary-annual-report-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/plan-corrective-distribution-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+      ],
+      "tpa_participant_distribution_withdrawal_operations_thread": [
+        "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination"
+      ],
+      "tpa_participant_distribution_withdrawal_operations_thread_settlement_exception": [
+        "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-settlement-exception-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-distribution-rollover-document-coordination",
+        "https://www.stratedgeworkflow.com/insights/plan-hardship-withdrawal-documentation-coordination",
+        "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-operations-chain-milestone-documentation-coordination",
         "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
       ]
     }
