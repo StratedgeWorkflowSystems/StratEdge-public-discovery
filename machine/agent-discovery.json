@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T02:42:51Z",
+  "last_updated": "2026-09-25T02:50:24Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -676,6 +676,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-final-release retention sunset and thread archival—indexed on parent thread; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-final-release-retention-sunset-thread-archival-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Archival Destruction Certificate and Thread Retirement Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-archival-destruction-certificate-and-thread-retirement-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-archival destruction certificate and thread retirement—indexed on parent thread; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-archival-destruction-certificate-and-thread-retirement-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -1308,6 +1315,14 @@
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-legal-hold-release-offboarding-archival-transfer-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-inquiry-closeout-retention-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
+    ],
+    "tpa_participant_distribution_withdrawal_operations_thread_post_archival_destruction_certificate_and_thread_retirement": [
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-archival-destruction-certificate-and-thread-retirement-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-final-release-retention-sunset-thread-archival-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-monitoring-consent-order-lift-termination-final-release-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-periodic-retention-attestation-disposition-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
