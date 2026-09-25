@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T00:13:44Z",
+  "last_updated": "2026-09-25T00:24:22Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -156,7 +156,9 @@
     "insights_tpa_wire_replacement_ach_contribution_deposit_documentation_coordination": "https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination",
     "insights_tpa_wire_replacement_ach_contribution_deposit_documentation_coordination_faq": "https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination.faq.json",
     "insights_tpa_duplicate_contribution_deposit_funding": "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination",
-    "insights_tpa_duplicate_contribution_deposit_funding_faq": "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination.faq.json"
+    "insights_tpa_duplicate_contribution_deposit_funding_faq": "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination.faq.json",
+    "insights_tpa_contribution_deposit_reversal_excess_refund": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
+    "insights_tpa_contribution_deposit_reversal_excess_refund_faq": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination.faq.json"
   },
   "public_research": {
     "hubs": [
@@ -529,6 +531,13 @@
         "type": "insights",
         "notes": "TPA duplicate contribution deposit funding, ACH retry vs wire overlap, and reversal evidence; coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Contribution Deposit Reversal and Excess Funding Refund Documentation Coordination: A Practical Checklist",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA contribution deposit reversal, excess funding refund, and ACH recall evidence; coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
@@ -1064,11 +1073,20 @@
     ],
     "tpa_duplicate_contribution_deposit_funding": [
       "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-makeup-contribution-redeposit-after-rejected-ach-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-rejected-ach-contribution-deposit-return-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination"
+    ],
+    "tpa_contribution_deposit_reversal_excess_refund": [
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reversal-excess-refund-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-duplicate-contribution-deposit-funding-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-wire-replacement-ach-contribution-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-contribution-deposit-reconciliation-variance-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/tpa-unallocated-suspense-contribution-deposit-documentation-coordination",
+      "https://www.stratedgeworkflow.com/insights/tpa-rejected-ach-contribution-deposit-return-documentation-coordination",
       "https://www.stratedgeworkflow.com/insights/recordkeeper-census-payroll-handoff-checklist",
       "https://www.stratedgeworkflow.com/insights/needs-attention-dashboards-financial-ops"
     ]
