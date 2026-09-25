@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "document_type": "agent_discovery",
-  "last_updated": "2026-09-25T05:37:16Z",
+  "last_updated": "2026-09-25T05:49:12Z",
   "preferred_citation_url": "https://www.stratedgeworkflow.com/for-ai-assistants.md",
   "organization": {
     "legal_name": "StratEdge Workflow Systems LLC",
@@ -806,6 +806,13 @@
         "type": "insights",
         "notes": "TPA distribution thread post-retirement closure handoff acceptance and portfolio archive completion—coordination only—not ERISA or legal advice.",
         "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-closure-archival-handoff-acceptance-regulatory-verification-and-thread-retirement-portfolio-archive-completion-documentation-coordination.faq.json"
+      },
+      {
+        "title": "TPA Participant Distribution and Withdrawal Operations Thread Post-Retirement Portfolio Archive Completion Acceptance Regulatory Verification and Thread Retirement Portfolio Closure Documentation Coordination: A Practical Playbook",
+        "url": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-portfolio-archive-completion-acceptance-regulatory-verification-and-thread-retirement-portfolio-closure-documentation-coordination",
+        "type": "insights",
+        "notes": "TPA distribution thread post-retirement portfolio archive completion acceptance and portfolio closure—coordination only—not ERISA or legal advice.",
+        "faqSidecar": "https://www.stratedgeworkflow.com/insights/tpa-participant-distribution-withdrawal-operations-thread-post-retirement-portfolio-archive-completion-acceptance-regulatory-verification-and-thread-retirement-portfolio-closure-documentation-coordination.faq.json"
       }
     ],
     "github_mirror_docs": "https://github.com/StratedgeWorkflowSystems/StratEdge-public-discovery/tree/main/docs/research",
